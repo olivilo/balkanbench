@@ -1,0 +1,182 @@
+{
+ "aya-expanse": {
+  "FACT": [
+   1,
+   6
+  ],
+  "HALLU": [
+   0,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   4,
+   6
+  ],
+  "INSTRUCT": [
+   4,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   33,
+   36
+  ]
+ },
+ "salamandra": {
+  "FACT": [
+   3,
+   6
+  ],
+  "HALLU": [
+   0,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   5,
+   6
+  ],
+  "INSTRUCT": [
+   5,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   33,
+   36
+  ]
+ },
+ "bggpt": {
+  "FACT": [
+   1,
+   6
+  ],
+  "HALLU": [
+   0,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   6,
+   6
+  ],
+  "INSTRUCT": [
+   6,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   34,
+   36
+  ]
+ },
+ "zora_v1": {
+  "FACT": [
+   2,
+   6
+  ],
+  "HALLU": [
+   6,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   5,
+   6
+  ],
+  "INSTRUCT": [
+   6,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   36,
+   36
+  ]
+ },
+ "eurollm-bench": {
+  "FACT": [
+   3,
+   6
+  ],
+  "HALLU": [
+   0,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   4,
+   6
+  ],
+  "INSTRUCT": [
+   5,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   35,
+   36
+  ]
+ },
+ "yugogpt-bench": {
+  "FACT": [
+   2,
+   6
+  ],
+  "HALLU": [
+   0,
+   6
+  ],
+  "TEACH": [
+   5,
+   6
+  ],
+  "REASON": [
+   3,
+   6
+  ],
+  "INSTRUCT": [
+   4,
+   6
+  ],
+  "LONGFORM": [
+   5,
+   6
+  ],
+  "SCRIPT": [
+   29,
+   36
+  ]
+ }
+}

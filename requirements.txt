@@ -1,0 +1,5 @@
+# BalkanBench — runner talks to any OpenAI-compatible endpoint (Ollama/LM Studio/vLLM/API)
+# Core runner needs only the standard library. Optional extras:
+lingua-language-detector>=2.0   # optional: language detection in auto-checks
+# For matrix_test.py with a local MLX model (Apple Silicon):
+# mlx-lm>=0.20

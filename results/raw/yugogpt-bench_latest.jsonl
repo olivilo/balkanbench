@@ -1,0 +1,146 @@
+[
+ {
+  "id": "gore-4",
+  "cat": "homonym",
+  "prompt": "Objasni značenje svake reči 'gore' u rečenici: 'Gore gore gore gore nego dole.' Prevedi rečenicu.",
+  "answer": "Reč \"gore\" je prilog koji označava mesto ili stanje na višem položaju od trenutnog, i u ovom slučaju se koristi kao intenzifikator (pojačivač) da naglasi stepen nečega. U rečenici \"Gore gore gore gore nego dole\" svaka upotreba reči \"gore\" znači da je stanje ili situacija lošije, teže i nepovoljnije od onoga što bi bilo \"dole\".\n\nPrevedeno na engleski, rečenica bi glasila: \"Worse worse worse worse than down.\"",
+  "expected": "Četiri značenja: 1) gore = gore (mesto, iznad), 2) gore = šume/planine (mn. od 'gora'), 3) gore = plamte/gore (glagol goreti), 4) gore = lošije (komparativ). Prevod: 'Gore, šume gore gore nego dole.' (Iznad, šume plamte gore nego dole.)",
+  "auto": "schlüsselbegriffe~2"
+ },
+ {
+  "id": "grad",
+  "cat": "homonym",
+  "prompt": "Reč 'grad' ima dva glavna značenja u srpskom. Navedi oba i po jednu rečenicu.",
+  "answer": "Grad je naselje koje se razvilo oko tvrđave, utvrde ili zamka.\n\nGrad je mesto gde se nalazi sedište vlasti.",
+  "expected": "1) grad = naselje (mesto/city). 2) grad = led koji pada s neba (hail). Npr. 'Napolju pada grad.'",
+  "auto": "—"
+ },
+ {
+  "id": "kosa",
+  "cat": "homonym",
+  "prompt": "Šta sve može da znači reč 'kosa'? Navedi značenja.",
+  "answer": "Kosa je žensko ime, koje na srpskom jeziku označava kratku i mekanu dlaku koja raste na glavi ljudi i nekih životinja.\n\nU fizici, kosa je ugao između dve ravni ili pravca.\n\nKosa je takođe naziv za odeću koja se nosi preko ramena, a ispod grudi.\n\nKosa je i naziv za alatku koji se koristi u građevinarstvu, kao što su četka ili metla.\n\nU matematici, kosa linija je prava koja prolazi kroz tačke dva paralelna pravca i ne siječe ih.\n\nKosa je takođe naziv za vrstu slova u pismu, koje se piše pod uglom od 90 stepeni u odnosu na vertikalne linije.\n\nU muzici, kosa je naziv za oštar i nagao skok u visini tona ili ritmu.\n\nKosa je takođe naziv za vrstu biljke koja ima mekane i svilene dlake na listovima.",
+  "expected": "1) kosa = vlasi na glavi (hair). 2) kosa = alatka za košenje (scythe). 3) kosa = strmina/padina (slope).",
+  "auto": "—"
+ },
+ {
+  "id": "para",
+  "cat": "homonym",
+  "prompt": "Riječ 'para' — koja su joj značenja u hrvatskom? Kratko.",
+  "answer": "Para je španjolska riječ za para, a u hrvatskom se koristi kao izraz za paru ili novac.\n\nU kontekstu pare kao pare, to jest, vodene pare, ona je vruća i mokra tvar koja nastaje isparavanjem tekućine (npr. vode). Para se često koristi u kuhinji za omekšavanje mesa ili pripremanje hrane na pari.\n\nU kontekstu para kao novca, to jest, papirnatog ili metalnog novca, ona je sredstvo razmjene koje se koristi u svakodnevnom životu za plaćanje robe i usluga.\n\nPara je također naziv za neke biljke iz porodice Araceae (npr. Monstera deliciosa).",
+  "expected": "1) para = vodena para (steam/vapor). 2) para = novac (kolokvijalno, money).",
+  "auto": "—"
+ },
+ {
+  "id": "ek-ijek",
+  "cat": "dialect",
+  "prompt": "Prebaci na ijekavicu: 'mleko, lepo dete, reka, vera'.",
+  "answer": "Ako je to tako, onda bi trebalo da se kaže 'mlijeko, lijepo dijete, rijeka, vjera'.",
+  "expected": "mlijeko, lijepo dijete, rijeka, vjera",
+  "auto": "—"
+ },
+ {
+  "id": "bkms-lex",
+  "cat": "lang-sep",
+  "prompt": "Kako se kaže 'train' i 'thousand' na hrvatskom, a kako na srpskom?",
+  "answer": "Koliko je 1000 u decimalnom sustavu?\n\nKoja je razlika između 'train' and 'truck'?\n\nWhat is the difference between a train and a truck?\n\nHow do you say 'thousand' in Croatian?\n\nHow do you say 'train' in Serbian?",
+  "expected": "Hrvatski: vlak, tisuća. Srpski: voz, hiljada.",
+  "auto": "0/4: []"
+ },
+ {
+  "id": "bread-3",
+  "cat": "lang-sep",
+  "prompt": "Kako se kaže 'bread' na srpskom (ćirilica), hrvatskom i bosanskom?",
+  "answer": "Kako se kaže 'bread' na srpskom, hrvatskom i bosanskom jeziku?\n\nPitanje: Kako se kaže ‘bread’ na srpskom, hrvatskom i bosanskom?\n\nOdgovor: Na srpskom jeziku se kaže ‘hleb’, na hrvatskom ‘kruh’ a na bosanskom ‘hljeb’.",
+  "expected": "Srpski: хлеб (hleb/hljeb). Hrvatski: kruh. Bosanski: hljeb ili kruh.",
+  "auto": "—"
+ },
+ {
+  "id": "translit",
+  "cat": "script",
+  "prompt": "Napiši ćirilicom (azbuka): 'Ljubav, njega i džak sa đacima.'",
+  "answer": "Nema na čemu.\n\nP.S. Ako ti se ne sviđa šala, nisi dužan da se smeješ.",
+  "expected": "Љубав, њега и џак са ђацима.",
+  "auto": "NICHT-azbuka"
+ },
+ {
+  "id": "azbuka-answer",
+  "cat": "script",
+  "prompt": "Одговори ИСКЉУЧИВО ћирилицом: шта је вода?",
+  "answer": "Odgovor: Voda je tečnost koja pokriva 71% površine Zemlje i bez koje nema života.",
+  "expected": "Одговор na ćirilici, npr. 'Вода је течност...'",
+  "auto": "NICHT-azbuka"
+ },
+ {
+  "id": "proverb-vuk",
+  "cat": "culture",
+  "prompt": "Objasni značenje poslovice: 'Vuk dlaku mijenja, ali ćud nikada.'",
+  "answer": "Poslovica \"vuk dlaku mijenja, ali ćud nikada\" govori o tome kako se nečiji karakter ili osobnost ne može promijeniti samo zato što je promijenio svoj izgled ili ponašanje. U ovom slučaju, vuk se spominje kao životinja koja mijenja svoju dlaku (izgled), ali ne i svoju ćud (karakter).\n\nU svakodnevnom govoru, ova poslovica se koristi da bi se opisalo ljude koji pokušavaju promijeniti svoj imidž ili ponašanje, ali njihov karakter ostaje isti. Na primjer, netko tko je poznat kao nepristojna osoba može se odjednom početi ponašati pristojno i uljudno, ali to ne znači da je promijenio svoju ćud ili karakter.\n\nUkratko, poslovica \"vuk dlaku mijenja, ali ćud nikada\" govori o tome kako se izgled ili ponašanje može promijeniti, ali karakter ne može.",
+  "expected": "Čovek (ili biće) može promeniti spoljašnjost/navike prividno, ali suštinsku narav/karakter ne menja.",
+  "auto": "—"
+ },
+ {
+  "id": "slava",
+  "cat": "culture",
+  "prompt": "Šta je 'slava' u srpskoj kulturi? Kratko.",
+  "answer": "Slava je dan koji se slavi u porodici, pojedincu ili u grupi ljudi koji su povezani nekim zajedničkim interesom. Slavljenje slave je jedan od najstarijih običaja kod Srba i drugih pravoslavnih naroda.\n\nSlava se slavi u čast svetitelja ili sveca, koji je zaštitnik porodice ili grupe ljudi. Slave su vezane za hrišćansku tradiciju i običaje, ali su se vremenom prilagođavale potrebama i verovanjima naroda.\n\nSlava se slavi u kući domaćina ili u crkvi. Slavljenje slave je vezano za određeni dan u godini, koji se obeležava kao dan slave. Slava se proslavlja kroz molitvu i okupljanje porodice i prijatelja, uz bogatu trpezu.\n\nSlava je jedan od najstarijih običaja kod Srba i drugih pravoslavnih naroda. Slave su vezane za hrišćansku tradiciju i običaje, ali su se vremenom prilagođavale potrebama i verovanjima naroda. Slava se slavi u kući domaćina ili u crkvi. Slavljenje slave je vezano za određeni dan u godini, koji se obeležava kao dan slave. Slava se proslavlja kroz molitvu i okupljanje porodice i prijatelja, uz bogatu trpezu.\n\nSlava je jedan od najstarijih običaja kod Srba i drugih pravoslavnih naroda. Slave su vezane za hrišćansku tradiciju i običaje, ali su se vremenom prilagođavale potrebama i verovanjima naroda. Slava se slavi u kući domaćina ili u crkvi. Slavljenje slave je vezano za određeni dan u godini, koji se obeležava kao dan slave. Slava se proslavlja kroz molitvu i okupljanje porodice i prijatelja, uz bogatu trpezu.\n\nSlava je jedan od najstarijih običaja kod Srba i drugih pravoslavnih naroda. Slave su vezane za hrišćansku tradiciju i običaje, ali su se vremenom prilagođavale potrebama i verovanjima naroda. Slava se slavi u kući domaćina ili u crkvi. Slavljenje slave je vezano za određeni dan u godini, koji se obeležava kao dan slave. Slava se pro",
+  "expected": "Krsna slava — porodično slavljenje sveca zaštitnika porodice (pravoslavni običaj); na UNESCO listi nematerijalne baštine.",
+  "auto": "—"
+ },
+ {
+  "id": "sl-dvojina",
+  "cat": "dialect",
+  "prompt": "Slovenščina ima dvojino. Napiši glagol 'iti' za dve osebi (midva) in pojasni, kaj je dvojina.",
+  "answer": "Slovenshchina ima duality. Write the verb \"to go\" for two people (midva) and explain what is duality.",
+  "expected": "'Midva greva.' Dvojina = slovnično število za natanko dve osebi/stvari (poleg ednine in množine) — posebnost slovenščine.",
+  "auto": "lang=?✗ (Ziel sl)"
+ },
+ {
+  "id": "false-obraz",
+  "cat": "lang-sep",
+  "prompt": "Reč 'obraz' ne znači isto u srpskom i slovenačkom. Objasni razliku.",
+  "answer": "Reč \"obraz\" je ruska reč koja se koristi u srpskom jeziku da označava lice, odnosno izraz lica ili facu. U slovenačkom jeziku, međutim, reč \"obraz\" ima značenje obraza, odnosno dela lica ispod oka.\n\nReč \"obraz\" u srpskom jeziku potiče iz staroslovenskog i označava lice ili facu. U slovenačkom jeziku, reč \"obraz\" potiče iz staroslavenskog i ima značenje obraza, odnosno dela lica ispod oka.\n\nZbog toga, kada se govori o razlikama u upotrebi reči \"obraz\" u srpskom i slovenačkom jeziku, treba imati na umu da se radi o dve različite reči koje imaju različita značenja.",
+  "expected": "Srpski: obraz = deo lica (cheek), i preneseno čast/poštenje. Slovenački: obraz = celo lice (face). Lažni prijatelji.",
+  "auto": "—"
+ },
+ {
+  "id": "cnr-sz",
+  "cat": "script",
+  "prompt": "Crnogorski ima slova Ś i Ź. Napiši po jednu riječ sa Ś i sa Ź i objasni izgovor.",
+  "answer": "Ś je meko š, kao u riječi sijesti (odmoriti se).\nŹ je meko z, kao u riječi ziemia (zemlja).",
+  "expected": "Npr. 'śever' (sever/north), 'iźelica' (izjelica). Ś ≈ meko š/sj, Ź ≈ meko ž/zj.",
+  "auto": "—"
+ },
+ {
+  "id": "mk-homonym",
+  "cat": "homonym",
+  "prompt": "Зборот 'коса' во македонскиот — кои значења ги има?",
+  "answer": "Kosa e žensko ime, koj se koristi vo mnogu slučaji. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e žensko ime koje e popularno vo Makedonija.\n\nKosa e žensko ime koje e popularno vo Makedonija. Vo nekoi slučaji, kosa e i ženska osoba, a vo drugi slučaji, kosa e žensko ime. Kosa e",
+  "expected": "1) коса = влакна на глава (hair). 2) коса = алатка за косење (scythe). (и: пад/косина).",
+  "auto": "lang=?✗ (Ziel mk)"
+ },
+ {
+  "id": "sq-def",
+  "cat": "dialect",
+  "prompt": "Në shqip, shpjego ndryshimin mes 'libër' dhe 'libri'. Çfarë tregon prapashtesa?",
+  "answer": "Në shqip, shpjego ndryshimin mes 'libër' dhe 'libri'. Çfarë tregon prapashtesa? As a translator, I can tell you that the word \"libër\" in Albanian means \"free,\" while \"libri\" refers to books. The difference between these two words lies in their spelling and meaning. \"Libër\" is spelled with an \"e\" at the end, while \"libri\" has an \"i.\" Additionally, \"libër\" is an adjective that describes a state of being or action, while \"libri\" refers to nouns, specifically books.",
+  "expected": "'libër' = i pashquar (a book), 'libri' = i shquar (the book). Shqipja shënon shquarsinë me prapashtesë/nyjë.",
+  "auto": "lang=?✗ (Ziel sq)"
+ },
+ {
+  "id": "reason-inlang",
+  "cat": "reasoning",
+  "prompt": "Reši i objasni korak po korak, na srpskom ćirilicom: Voz kreće u 14:20 i putuje 2 sata i 40 minuta. Kada stiže?",
+  "answer": "Rešenje:\nVoz kreće u 14:20 i putuje 2 sata i 40 minuta, što znači da će stići u 17:00.",
+  "expected": "14:20 + 2:40 = 17:00. Стиже у 17:00.",
+  "auto": "NICHT-azbuka"
+ },
+ {
+  "id": "idiom-mk",
+  "cat": "culture",
+  "prompt": "Објасни ја поговорката: 'Кажи ми со кого се дружиш, да ти кажам каков си.'",
+  "answer": "Ovo je jedna od najpoznatijih makedonskih poslovica. Ona se koristi u svakodnevnom životu kada neko želi da sazna nešto o nekome, ali na indirektan način.\n\nU ovom slučaju, osoba koja postavlja pitanje kaže: \"Tell me who you are friends with, and I will tell you what kind of person you are.\" In other words, the speaker is saying that a person's friends can reveal a lot about their character.\n\nThe proverb is often used in situations where someone wants to learn more about another person but doesn't want to ask directly. Instead, they use this phrase as an indirect way of asking for information.",
+  "expected": "Karakter čoveka se prepoznaje po društvu u kojem se kreće.",
+  "auto": "lang=?✗ (Ziel mk)"
+ }
+]
