@@ -59,6 +59,66 @@
    36
   ]
  },
+ "qwen36-27b": {
+  "FACT": [
+   4,
+   6
+  ],
+  "HALLU": [
+   3,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   6,
+   6
+  ],
+  "INSTRUCT": [
+   6,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   36,
+   36
+  ]
+ },
+ "gemma4-26b": {
+  "FACT": [
+   3,
+   6
+  ],
+  "HALLU": [
+   6,
+   6
+  ],
+  "TEACH": [
+   6,
+   6
+  ],
+  "REASON": [
+   6,
+   6
+  ],
+  "INSTRUCT": [
+   6,
+   6
+  ],
+  "LONGFORM": [
+   6,
+   6
+  ],
+  "SCRIPT": [
+   36,
+   36
+  ]
+ },
  "bggpt": {
   "FACT": [
    1,

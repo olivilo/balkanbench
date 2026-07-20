@@ -1,7 +1,9 @@
-# Härtetest-Matrix — Scores (korrigiert, je 6 Sprachen)
+# Härtetest-Matrix — Scores (8 Modelle, je 6 Sprachen)
 
 | Modell | FACT | HALLU | TEACH | REASON | INSTRUCT | LONGFORM | SCRIPT | Σ |
 |---|---|---|---|---|---|---|---|---|
+| gemma4-26b | 3/6 | 6/6 | 6/6 | 6/6 | 6/6 | 6/6 | 36/36 | **33/36** |
+| qwen36-27b | 4/6 | 3/6 | 6/6 | 6/6 | 6/6 | 6/6 | 36/36 | **31/36** |
 | zora_v1 | 2/6 | 6/6 | 6/6 | 5/6 | 6/6 | 6/6 | 36/36 | **31/36** |
 | salamandra | 3/6 | 0/6 | 6/6 | 5/6 | 5/6 | 6/6 | 33/36 | **25/36** |
 | bggpt | 1/6 | 0/6 | 6/6 | 6/6 | 6/6 | 6/6 | 34/36 | **25/36** |
