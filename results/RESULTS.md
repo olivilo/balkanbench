@@ -61,6 +61,14 @@ For an 8B model to lead the honesty axis against 26–27B generalists is Zora's 
 
 ![Heatmap](charts/03_heatmap.png)
 
+### Per task type — all 8 models
+
+![Per task type](charts/05_kategorien_alle.png)
+
+Every axis for **all eight** models (the two 26–27B generalists are blue, dedicated Balkan models grey).
+This makes explicit where the size advantage shows (raw reasoning, facts) and where Zora holds its own or
+leads (honesty, script) — not just in the overall total.
+
 - **Script discipline:** Zora **36/36** — perfect Azbuka‑on‑command, no drift; matched only by the two
   much larger generalists.
 - **Facts** are Zora's honest weak point (2/6) — an 8B model can't memorise every author → use with a
