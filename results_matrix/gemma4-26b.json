@@ -1,0 +1,218 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "answer": "**Ivo Andrić**."
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "answer": "Nažalost, u dostupnim istorijskim, naučnim i biografskim bazama podataka **ne postoji podatak o poznatom srpskom naučniku po imenu Radovan Petrović-Milošević**.\n\nPostoji nekoliko mogućnosti zašto je došlo do nesporazuma ili zašto se to ime ne pojavljuje u zvaničnim izvorima:\n\n1.  **Greška u prezimenu ili imenu:** Moguće je da se radi o osobi koja nosi slično prezime (npr. Petrović, Milošević ili kombinaciju), ali bez tačnog navođenja oblasti kojom se bavio (fizika, medicina, hemija itd.), teško je identifikovati konkretnu ličnost.\n2.  **Manje poznata ličnost:** Može biti reč o naučniku koji nije ostavio široko priznat trag u međunarodnoj ili opštoj nacionalnoj nauci, već se bavio specifičnim lokalnim istraživanjima ili radom u nekoj instituciji koja nije digitalizovana.\n3.  **Fiktivni lik:** Ako ste ovo ime čuli u knjizi, filmu ili nekom književnom delu, moguće je da je reč o izmišljenom liku.\n\n**Ako imate bilo kakav dodatni podatak, molim vas napišite ga kako bih mogao preciznije da vam pomognem:**\n*   Kojom se naukom bavio? (npr. astronomija, biologija, matematika...)\n*   U kom periodu je živeo ili radio? (npr. 19. vek, međratni period, savremeno doba?)\n*   Da li ga se povezuje sa nekim specifičnim univerzitetom ili institucijom?"
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "answer": "Fotosinteza je način na koji biljke prave svoju hranu koristeći sunčevu svetlost, vodu i vazduh. Tokom tog procesa, biljke pretvaraju sunce u energiju koja im pomaže da rastu i budu zdrave. Kao poseban poklon nama, tokom fotosinteze biljke izbacuju kiseonik koji mi koristimo za disanje."
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "answer": "Evo rešenja korak po korak:\n\n**1. Analiza podataka:**\n*   Brzina ($v$) = $60\\text{ km/h}$\n*   Vreme ($t$) = $2,5\\text{ sata}$\n\n**2. Formula za pređeni put:**\nDa bismo izračunali put ($s$), koristimo osnovnu formulu za brzinu:\n$$s = v \\cdot t$$\n*(Put = Brzina $\\times$ Vreme)*\n\n**3. Izračunavanje:**\nUvrstimo vrednosti u formulu:\n$$s = 60\\text{ km/h} \\cdot 2,5\\text{ h}$$\n\nPostupak množenja:\n*   $60 \\cdot 2 = 120$\n*   $60 \\cdot 0,5 = 30$ (polovina od 60)\n*   $120 + 30 = 150$\n\n**Rešenje:**\nVoz će preći **150 kilometara**."
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "answer": "Дунав\nСава\nТиса"
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "answer": "Evo četiri koherentne rečenice o Beogradu:\n\nBeograd, kao spoj Istoka i Zapada, predstavlja dinamičan grad koji se neprestano razvija na raskrsnici kultura. Njegov duh najbolje se oseća u živopisnim ulicama Starog grada, gde istorijska arhitektura susreće moderni ritam života. Pored urbanog sjaja, grad nudi i miris rečnog vazduha duž ušća Save i Dunava, koji su neizostavni deo identiteta svakog stanovnika. Zbog svoje bogate istorije i gostoljubivosti, Beograd ostaje mesto koje na poseban način osvaja svakoga ko ga jednom poseti."
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "answer": "Roman *Povratak Filipa Latinovicza* napisao je **Meša Selimović**."
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "answer": "Nažalost, u povijesnim arhivima, književnim enciklopedijama ili službenim bazama podataka o hrvatskim piscima **ne postoji podatak o pjesniku koji se zove Tomislav Berišić-Kralj.**\n\nPostoji nekoliko mogućnosti zašto je došlo do nesporazuma:\n\n1.  **Slična imena:** Možda mislite na nekog drugog autora s prezimenom Berišić ili sličnim imenom, ali bez dodatnog prezimena \"Kralj\".\n2.  **Manje poznati autor/lokalni pjesnik:** Moguće je da se radi o suvremenom autoru koji objavljuje u malim časopisima, na internet platformama (poput Facebooka ili blogova) ili u lokalnim antologijama, a koji još uvijek nije ušao u širu književnu kanon.\n3.  **Greška u imenu:** Možda je došlo do pogreške u pisanju imena ili prezimena.\n\nAko imate bilo kakvu dodatnu informaciju (npr. naslov njegove najpoznatije pjesme, kada bi se mogao pojaviti u nekoj knjizi ili o kojoj je temi pisao), slobodno napišite kako bih vam mogao preciznije pomoći."
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "answer": "Gravitacija je nevidljiva sila koja sve stvari na svijetu privlači jedna prema drugoj. Zahvaljujući njoj, tvoje noge uvijek čvrsto stoje na podu, a lopta se nakon bacanja vraća na zemlju. To je isto ono što drži Zemlju u pokretu i sprečava nas da odletimo u svemir!"
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "answer": "3 kruha koštaju **24 kuna**.\n\n**Objašnjenje:**\n\nDa bismo izračunali cijenu, potrebno je primijeniti osnovno množenje ili zbrajanje:\n\n1.  **Metoda množenja:** Ako jedan kruh košta 8 kuna, a treba nam 3 kruha, množimo cijenu jednog kruha s brojem kruha:\n    $8 \\times 3 = 24$\n\n2.  **Metoda zbrajanja:** Možete također jednostavno zbrojiti cijenu svakog pojedinačnog kruha:\n    $8 + 8 + 8 = 24$"
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "answer": "Zagreb je glavni grad Hrvatske.\nSplit je poznat po svojoj bogatoj povijesti.\nRijeka je važna luka na Jadanskom moru."
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "answer": "Evo četiri koherentne rečenice o Zagrebu:\n\nZagreb je glavni grad Hrvatske i središte kulture, gospodarstva te obrazovanja cijele zemlje. Grad se sastoji od dva glavna dijela – gornjeg grada s povijesnim znamenitostima i donjeg grada koji pulsira modernim životom. Šetnja šumskim stazama Maksimirskog parka ili uživanje u kavi na Izetovom trgu pružaju posjetiteljima jedinstven spoj prirode i urbane atmosfere. Zahvaljujući svojoj gostoljubivosti i bogatoj ponudi, ovaj grad uvijek nudi nešto novo svima koji ga posjete."
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "answer": "Roman *Derviš i smrt* napisao je **Meša Selimović**."
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "answer": "Prema dostupnim historijskim podacima i literarnim registrima, ne postoji široko poznat ili kanonski priznat pisac po imenu **Alija Hodžić-Muratović** koji bi ostavio značajan trag u bosanskoj književnosti.\n\nMoguće je da se radi o jednoj od sljedećih situacija:\n\n1.  **Manje poznati autor ili lokalni pisac:** Može biti riječ o autoru koji je pisao u manje cirkuliranim časopisima, objavljivao poeziju u lokalnim izdanjima ili bio dio sužbrenog književnog pokreta koji nije široko dokumentovan u digitalnim bazama.\n2.  **Greška u imenu ili prezimenu:** Često se u historijskoj literaturi dešavaju zamjene prezimena (npr. spoj dva prezimena koja su bila odvojena). Postoje poznati pisci i intelektualci sa prezimenima Hodžić ili Muratović, ali njihova kombinacija pod tim specifičnim imenom nije istaknuta u glavnim biografijama.\n3.  **Privatna osoba ili lokalni intelektualac:** Moguće je da je riječ o osobi koja je bila aktivna u određenom periodu (npr. u međuratnom dobu ili u doba Jugoslavije), ali čiji rad nije postao predmet opšte književne kritike.\n\n**Ako imate dodatne informacije**, kao što su:\n*   Koji je žanr pisao (poezija, proza, historijski tekstovi)?\n*   U kojem periodu je bio aktivan (npr. 19. vijek, međuratni period ili nakon 1945.)?\n*   Da li se njegovo ime pojavljuje u nekoj specifičnoj knjizi ili časopisu?\n\nTe informacije bi mi pomogle da vam pružim precizniji odgovor."
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "answer": "Kiša su male kapljice vode koje padaju direktno iz oblaka na zemlju. Ona dolazi sa neba kako bi napojila biljke i omogućila im da rastu. Kada pada kiša, priroda postaje veseo i zelen, a mi možemo da se igramo u gumene čizmama!"
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "answer": "Svaka osoba će dobiti **3 jabuke**.\n\n**Objašnjenje:**\n\nTo je matematički zadatak dijeljenja (divljenja). Kada imaš ukupnu količinu od 12 i želiš je podijeliti na jednake dijelove za 4 osobe, koristiš operaciju:\n\n**12 ÷ 4 = 3**\n\nMožeš to zamisliti i ovako:\nAko svako od te 4 ljudi dobije po jednu jabuku, potrošiš 4 jabuke.\nAko svako dobije još jednu (ukupno dvije), potrošiš još 4 jabuke (ukupno 8).\nAko svako dobije treću jabuku, potrošiš još 4 jabuke (ukupno 12).\n\nDakle, svaka osoba ima **3 jabuke**."
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "answer": "Sarajevo je glavni grad Bosne i Hercegovine.\n\nMostar je poznat po starom mostu koji spaja dvije obale rijeke Neretve.\n\nBanja Luka je administrativni centar Republike Srpske."
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "answer": "Evo četiri koherentne rečenice o Sarajevu:\n\nSarajevo je grad poseban po svojoj bogatoj i slojevitoj historiji koja se prepliće kroz svaki njegovu kamen i ulicu. Smješten u srcu Bosne i Hercegovine, ovaj grad predstavlja jedinstven spoj istoka i zapada, gdje se uz lado zvonja odjekuju ezanovi iz minareta. Njegova kulturna baština najbolje se može osjetiti šetnjom kroz Baščaršiju, gdje miris svježeg ćevapa i kave spaja ljude iz svih krajeva svijeta. Zbog svoje neizbrisive uloge u modernoj historiji, Sarajevo ostaje simbol otpornosti i neustrašivog duha ljudskog bića."
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "answer": "Романот „Пиреј“ го напишал **Миорада Лампе** (Miodrag Lampa)."
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "answer": "Веројатно имате предвид **Стеван Кочо (Стеван Кочовски)** или се мисли на некоја локална фигура, но во македонската литературна историја не постои познат поет со точното име „Стеван Ристовски-Кочо“.\n\nСепак, често доаѓа до мешање на имиња. Постојат две можности за тоа кого веројатно мислите:\n\n1.  **Ако мислите на Стеван Кочо (Стеван Кочовски):** Тој беше познат бунтовник и борец, но не е вообичаен дел од класичната македонска поезија како главен автор.\n2.  **Ако станува збор за некој поет со презиме Ристовски:** Постојат личности со тоа презиме, но името „Кочо“ обично се користи како хипокористик (кратко име) за **Коста Фиштин или Кочо Камдиџолов**, кои не се истите личности.\n\n**За да ви дадам точен одговор, ве молам проверете го презимето или името.** \n\nАко сте прочитале ова име во некоја специфична книга или за некој локален писател (на пример, од некој помали град), би било корисно да спомнете **од која епоха** или **од каков тип поезија** станува збор.\n\n*Напомена: Ако мислите на некого кој е „локален“ поет (непрепознат во националната канон), неговите податоци можеби не се достапни во големите архиви, освен ако не е дел од специфична регионална историја.*"
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "answer": "Еве едноставно објаснување за дете:\n\nСонцето е една огромна и многу топла светлина која сјае на нашето небо. Тоа е како голема огнена топка која ни дава топлина и светлост секој ден. Без Сонцето, на Земјата би било премногу студено и темно за да живееме тука."
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "answer": "Еве го решението објаснето чекор по чекор:\n\n**Чекор 1: Идентификување на податоците**\n*   Цена на едно јаболко = **10 денари**\n*   Број на јаболка што ги бараме = **5 јаболка**\n\n**Чекор 2: Избор на математичка операција**\nБидејќи имаме ист број на јаболка (секое по 10 денари) и сакаме да најдеме вкупната цена, треба да го помножиме бројот на јаболка со цената на едно јаболко.\n\n**Чекор 3: Пресметка**\n$5 \\times 10 = 50$\n\n**Одговор:**\n5 јаболка чинат **50 денари**."
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "answer": "Скопје е главниот и најголем град во Македонија.\nОхрид е познат по својата прекрасна природа и историски заштитен старин.\nБитола е позната како град на консли, со живописна корзо."
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "answer": "Еве четири кохерентни реченици за Скопје:\n\nСкопје е динамичен град кој служи како културен и административен центар на Северна Македонија. Градската архитектура нуди уникатен спој на антични останки, османски наследство и модернистички стилови. Срцето на градот го формира Старата чаршија, каде што атмосферата е полна со традиција и автентичен дух. Со својата енергија и разноликост, Скопје постојано се развива и привлича посетители од целиот свет."
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "answer": "Povídku *Martin Krpán* napsal **Pavol Vosman**."
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "answer": "Verkar ste v svojem vprašanju mešali dva različna imena ali pa gre za majlico. V slovenski literaturi **ne obstaja** pesnik z imenom \"Janez Pregelj-Kovač\".\n\nNajverjetneje pa iščete enega od naslednjih dveh znanih Slovencev:\n\n### 1. Janez Pregelj (pesnik)\nTo je najbolj veroten odgovor. Janez Pregelj je bil eden najpomembnejših slovenskih pesnikov 20. stoletja, ki je pisal predvsem o socialnih temah, trdu vsakdanjem življenju in človeški usodi.\n\n*   **Kdaj je živel:** Rodil se je leta **1902** in umrl leta **1981**.\n*   **Karakteristika:** Njegova poezija je bila močno prežeta z občutkom socialne nepravičnosti, trdom delu in človeško bolečino.\n\n### 2. Janez Kovač (avtor/pesnik?)\nIme \"Kovač\" se v literaturi pojavlja pogosto kot priimek, vendar ni znan pesnik po imenu Janez Kovač, ki bi bil zlasti povezan s Pregljevim imenom.\n\n---\n\n**Možna razlaga vaše vprašanja:**\n*   Morda ste mislili na **Janeza Preglja**, ki je bil pesnik (živel 1902–1981).\n*   Morda gre za priimek nekoga, kdo ima dvojno priimek ali je to specifična oseba iz lokalne literarne krožnice, ki ni široko znana v zgodovini slovenske književnosti.\n\n**Če ste imeli v mislih nekoga drugega (npr. avtorja pod pseudonimom), prosim dopolnite podatke, da vam bom lažje pomagal!**"
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "answer": "Dež je obliko padlinja vode iz oblakov na zemljo zaradi kondenzacije vodne pare. Nastane, ko se v zraku ohladi in se drobni kapljice vode združijo v večje kroplje. Ta proces je ključen za ciklus vode in zagotavlja vlažnost za vse žive organizme."
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "answer": "Če ena ura stane 20 evrov, bo 3 ure stalo **60 evrov**.\n\n**Pojasnilo:**\n\nIzračunamo jo lahko na dva načina:\n\n1.  **Prek množiteljnika (množenje):**\n    Ker imamo 3 ure in vsaka ura je 20 evrov, gre za množenje:\n    $3 \\times 20 = 60$ evrov.\n\n2.  **Prek sestavljanja (števčenje):**\n    *   1. ura = 20 €\n    *   2. ura = 20 € + 20 € = 40 €\n    *   3. ura = 40 € + 20 € = **60 €**"
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "answer": "Ljubljana je glavno mesto Slovenije.\nMaribor je največlo mesto v državi.\nCelje ima bogato zgodovino in kulturo."
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "answer": "Evo četiri koherentne i međusobno povezane stavke koje opisuju karakter Ljubljane:\n\n1.  **Harmonija prirode i urbanizma:** Ljubljana se ističe kao jedna od zelenijih evropskih metropola, gdje su parkovi, gojza i reka Ljubljanica integrirani u samu srž grada. Ova blizina prirode stvara specifičnu atmosferu opuštenosti koja stanovnike i turiste odvaja od užurbanog ritma drugih europskih glavnih gradova.\n2.  **Arhitektonski nasljeđe Jože Plečnika:** Estetski identitet grada u velikoj je meri oblikovan radovima arhitekta Jožeja Plečnika, čiji su radovi (poput Trojnog mosta ili Nacionalne biblioteke) stvorili jedinstven vizualni jezik. Njegov utjecaj pretvorio je Ljubljano u \"grad-vrt\" koji spaja klasične elemente s modernim funkcionalizmom, dajući joj neponovljivo lice.\n3.  **Kulturni centar i vitalnost javnog prostora:** Grad živi kroz svoje kulturne institucije, galerije i festivale, ali se njegova prava vitalnost najbolje osjeća na otvorenom – u kafićima uz obalu reke ili na centralnih trgovima. Taj živahni javni prostor čini Ljubljano gradom koji potiče društvenu interakciju i stalnu kulturnu razmenu.\n4.  **Središnje mjesto i evropski identitet:** Zahvaljujući svom geografskom položaju na raskrštinju Alpi, Mediterana i Balkana, Ljubljana djeluje kao prirodni most između različitih europskih kultura. Taj miks utječe čini grad kosmopolitskim, ali istovremeno zadržava jasnu slovenačku kulturnu specifičnost i stabilnost."
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "answer": "Romanin \"Gjenerali i ushtrisë së vdekur\" e ka shkruar **Ismail Kadare**."
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "answer": "Në fakt, në historinë e letërsisë shqiptare nuk ekziston një poet i njohur me emrin **Gjon Prendushi-Marku**.\n\nËshtë shumë e mundshme që të ketë një gabim në emër ose në familjen e pasardhësve. Megjithatë, ka disa mundësi se për cilin personazh mund të bëhet fjalë:\n\n1.  **Nëse po kërkoni për ndonjë poet të Shqipërisë së Mesme (Malsisë):** Ka shumë poetë popullorë ose shkrimtarë që kanë emra të ngjashëm, por ky kombinim saktësisht si \"Gjon Prendushi-Marku\" nuk figuron në librat e letërsisë shqiptare.\n2.  **Nëse është një emër i një personi lokal ose familjar:** Mund të jetë një shkrimtar i njohur vetëm në një zonë të ngushtë, por jo pjesë e kanonit kombëtar.\n\n**Sugjerim:**\nJu lutem, kontrolloni saktësisë së emrit. A mundet që emri të jetë:\n*   Ndonjë poet i njohur si *Gjon Pjetër Arbnasi* (në kontekst fetar/historik)?\n*   Apo ndoshta po e kërkoni për ndonjë nga poetët e lartë të letërsisë si *Jeronim de Rada* apo dikush tjetër?\n\nNëse mund të më jepni ndonjë detaj tjetër (si psh. vepra e tij, koha ku ka jetuar ose zona ku ka ardhur), do të jem i gatshëm t'ju ndihmoj ta identifikikojmë saktë."
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "answer": "Shiu është kur retë në qiell mbushen me ujë dhe e lëshojnë atë mbi tokë si pika të vogla. Ai bie nga lart si një dritë e kaltër që ujin i jep pemëve, luleve dhe kafshëve për t'u rritur. Pa shiu, natyra nuk do të mund të mbijetonte dhe kjo është arsyeja pse ai është shumë i rëndësishëm."
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "answer": "4 libra kushtojnë **20 euro**.\n\n**Shpjegimi:**\n\nPër të gjetur koston totale, duhet të shumëzosh çmimin e një libri me numrin e librave që do të blejmë:\n\n*   Çmimi i 1 libri = $5 \\text{ euro}$\n*   Numri i librave = $4$\n*   Llogaritja: $5 \\times 4 = 20 \\text{ euro}$"
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "answer": "Ja tre qytete të Shqipërisë:\n\n1. Tirana është kryeqyteti dhe qendra më e madhe administrative e vendit.\n2. Vlora është një qytet bregdetar i njohur për bukurinë e gjiriqit të Narmës.\n3. Berat njihet si \"qyteti i një mbi një\" dhe është pjesë e trashëgimisë botërore të UNESCO-s."
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "answer": "Ja katër fjali koherente për Tiranën:\n\nTirana është kryeumi i Shqipësisë dhe qyteti më i madh i vendit, i njohur për energjinë e tij dinamike dhe ritmin e shpejtë të jetës. Në zemër të saj mund të gjeni një miksim interesant mes shekujve, ku ndërtohen pallate moderne që bashkoanazi me shekujt e vjetër të arkitekturës koloniale. Shekulli i ri është evident në zonat si Blloku dhe Skënderbej, ku kafene të shumta dhe qendra kulturore ofrojnë një atmosferë gjallëruese për të gjithë vizitorët. Si një qytet që po transformohet vazhdimisht, Tirana vazhdon të tërheqë njerëzit me ngjyrat e saj, diversitetin kulturor dhe natyrën e saj urbane në zhullim."
+ }
+]

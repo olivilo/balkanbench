@@ -1,0 +1,136 @@
+{
+ "total": {
+  "v3": 13.0,
+  "Yugo": 7.5,
+  "Euro": 6.75
+ },
+ "percat": {
+  "v3": {
+   "Dialekt": 0.6666666666666666,
+   "Homonym": 0.55,
+   "Kultur": 0.8333333333333334,
+   "Reasoning": 0.75,
+   "Schrift": 0.75,
+   "Sprachtrenn.": 0.9166666666666666
+  },
+  "Yugo": {
+   "Dialekt": 0.25,
+   "Homonym": 0.35,
+   "Kultur": 0.8333333333333334,
+   "Reasoning": 0.75,
+   "Schrift": 0.3333333333333333,
+   "Sprachtrenn.": 0.25
+  },
+  "Euro": {
+   "Dialekt": 0.4166666666666667,
+   "Homonym": 0.3,
+   "Kultur": 0.75,
+   "Reasoning": 0.5,
+   "Schrift": 0.3333333333333333,
+   "Sprachtrenn.": 0.08333333333333333
+  }
+ },
+ "disc": {
+  "v3": 6,
+  "Yugo": 0,
+  "Euro": 1.5
+ },
+ "disc_n": 7,
+ "avglen": {
+  "v3": 299.44444444444446,
+  "Yugo": 468.8333333333333,
+  "Euro": 2211.1111111111113
+ },
+ "cases": {
+  "gore-4": {
+   "v3": 0.5,
+   "Yugo": 0.5,
+   "Euro": 0.25
+  },
+  "grad": {
+   "v3": 0.5,
+   "Yugo": 0.5,
+   "Euro": 0.25
+  },
+  "kosa": {
+   "v3": 0.5,
+   "Yugo": 0.25,
+   "Euro": 0.5
+  },
+  "para": {
+   "v3": 0.5,
+   "Yugo": 0.25,
+   "Euro": 0.5
+  },
+  "mk-homonym": {
+   "v3": 0.75,
+   "Yugo": 0.25,
+   "Euro": 0
+  },
+  "ek-ijek": {
+   "v3": 1,
+   "Yugo": 0.75,
+   "Euro": 0.25
+  },
+  "sl-dvojina": {
+   "v3": 0.5,
+   "Yugo": 0,
+   "Euro": 1
+  },
+  "sq-def": {
+   "v3": 0.5,
+   "Yugo": 0,
+   "Euro": 0
+  },
+  "bkms-lex": {
+   "v3": 1,
+   "Yugo": 0,
+   "Euro": 0
+  },
+  "bread-3": {
+   "v3": 1,
+   "Yugo": 0.25,
+   "Euro": 0
+  },
+  "false-obraz": {
+   "v3": 0.75,
+   "Yugo": 0.5,
+   "Euro": 0.25
+  },
+  "translit": {
+   "v3": 0.75,
+   "Yugo": 0,
+   "Euro": 0
+  },
+  "azbuka-answer": {
+   "v3": 1,
+   "Yugo": 0,
+   "Euro": 0.5
+  },
+  "cnr-sz": {
+   "v3": 0.5,
+   "Yugo": 1,
+   "Euro": 0.5
+  },
+  "proverb-vuk": {
+   "v3": 1,
+   "Yugo": 1,
+   "Euro": 1
+  },
+  "slava": {
+   "v3": 0.5,
+   "Yugo": 0.75,
+   "Euro": 0.75
+  },
+  "idiom-mk": {
+   "v3": 1,
+   "Yugo": 0.75,
+   "Euro": 0.5
+  },
+  "reason-inlang": {
+   "v3": 0.75,
+   "Yugo": 0.75,
+   "Euro": 0.5
+  }
+ }
+}

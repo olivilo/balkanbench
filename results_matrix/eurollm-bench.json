@@ -1,0 +1,362 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "- Portal za škole\nKo je napisao 'Na Drini ćuprija'? Kratko.\n\"Na Drini ćuprija\" (Most na rijeci Drini) je najpoznatije djelo bosanskog pisca Ive Andrića, nobelovca iz 1961. godine. Roman je napisan u Beogradu 1945. godine. Glavna tema djela su odnosi između Bošnjaka i Srba u vrijeme Austro-Ugarske.\nAndrić je rođen u Travniku 1892. godine, a umro je u Sarajevu 1976. godine. Andrićeva djela su poznata po svojoj jednostavnosti i poetskom ljepoti.\n\"Na Drini ćuprija\" je roman koji govori o životu ljudi na području Bosne i Hercegovine tijekom Austro-Ugarske. Glavni likovi su Bošnjaci, Srbi i Austrijanci. Roman se sastoji od dvadeset poglavlja koja opisuju događaje u vrijeme izgradnje mosta preko rijeke Drine.\nRoman je napisan u stilu epskog romana, a Andrić je koristio jednostavne riječi kako bi opisao složenost ljudskih osjećaja i odnosa između ljudi različitih nacionalnosti.\n\"Na Drini ćuprija\" je jedan od najpoznatijih romana na svijetu, a preveden je na više od 50 jezika. Roman je također adaptiran za film i televiziju.\nAndrić je bio veliki",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "- Studentski.hr\\nRadovan Petrović-Milošević (1870 – 1926) bio je srpski znanstvenik, fizičar i pedagog koji se smatra začetnikom fizikalne kulture u Srbiji.\\nU Beogradu je završio osnovnu školu i gimnaziju, a potom je upisao studij na Prirodno-matematičkom fakultetu u Beogradu. Nakon što je diplomirao 1892. godine, otišao je u Pariz gdje je studirao fiziku i matematiku na Sorboni. U Parizu se upoznao s poznatim fizičarima i matematičarima te je stekao iskustvo koje će kasnije upotrijebiti u svojoj karijeri.\\nNakon što je završio studij, vratio se u Srbiju gdje je radio kao profesor fizike na Velikoj realnoj školi u Beogradu. Godine 1895. postao je docentom na Prirodno-matematičkom fakultetu u Beogradu. U to vrijeme započinje svoj rad na fizikalnoj kulturi, a 1896. godine objavljuje knjigu „Fizikalna kultura“, koja će kasnije postati temelj za nastavu fizikalne kulture u Srbiji.\\nRadovan Petrović-Milošević bio je veliki entuzijast i zaljubljenik u znanost. U Beogradu je osnovao Fizikalni klub, a 1902. godine postao",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Fotosinteza je proces kojim biljke pretvaraju sunčevu energiju u hranu pomoću vode i ugljikova dioksida. Biljke koriste klorofil za apsorpciju svjetlosti i pretvaranje ugljikova dioksida i vode u šećer. Biljke ispuštaju kisik kao nusprodukt fotosinteze, što je neophodno za život na Zemlji.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "#vožnja\n\n## Korak 1: Pretvorite brzinu u metara na sat\nPrvi korak je pretvoriti brzinu iz kilometara na sat (km/s) u metara na sat (m/s). Budući da je 1 km jednak 1000 m, brzina se može izraziti kao \\(60 \\text{ km/h} = 60 \\times 1000 \\frac{\\text{m}}{\\text{km}} \\times \\frac{1 \\text{ h}}{3600} \\text{ s/h} = 16.67 \\text{ m/s}\\).\n\n## Korak 2: Izračunajte ukupnu udaljenost koju putuje automobil u 2,5 sata\nSada ćemo izračunati ukupnu udaljenost koju automobil pređe za 2,5 sata. Budući da je brzina \\(v = 16.67 \\text{ m/s}\\), ukupna udaljenost \\(d\\) može se izračunati pomoću jednadžbe \\(d = v \\times t\\), gdje je \\(t\\) vrijeme u sekundama. Dakle, \\(d = 16.67 \\frac{\\text{m}}{\\text{s}} \\times 2500 \\text{ s} = 4168.75 \\text{ m}\\).\n\n## Korak 3: Pretvorite udaljenost u kilometre",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "Riječni tokovi su:\n1. Dunav\n2. Tisa\n3. Sava\nRješenje:\nPisanje na ćirilici: \n1. Дунав\n2. Тиса\n3. Сава\nSve tri riječi imaju po 4 slova.\n\nU ovoj rečenici, sve tri riječne obale u Srbiji su navedene kao Dunav, Tisa i Sava.\n\nPostoji nekoliko načina za rješavanje ovog zadatka:\n\n1. Pokušajte s različitim kombinacijama slova da biste pronašli ispravne riječi.\n2. Koristite rječnik ili online alat za provjeru pravopisa kako biste potvrdili ispravnost riječi.\n3. Provjerite upitnike i knjige o Srbiji kako biste pronašli informacije o riječima.\n4. Pitajte nekog tko govori srpski jezik da vam pomogne u pronalaženju rješenja.\n5. Koristite računalo ili uređaj s internetskom vezom kako biste pretražili mrežu za riječi Dunav, Tisa i Sava.\n6. Pokušajte s različitim kombinacijama slova da biste pronašli ispravne riječi.\n7. Koristite rječnik ili online alat za provjeru pravopisa kako biste potvrdili ispravnost riječi.\n8. Provjerite upitnike i knjige o Srbiji kako biste pronašli informacije o riječima.\n9. P",
+  "score": 0,
+  "script_ok": false
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Bratislava je glavno mesto Slovaške, ki leži na sotočju rek Donave in Malega Dunaja.\nV Bratislavi je veliko zgodovinskih stavb. Najbolj znana je Bratislava Castle, ki se nahaja na hribu nad mestom.\nBratislava je tudi pomembno kulturno središče Slovaške. V mestu je veliko muzejev, galerij in gledališč.\nBratislava je tudi pomembno gospodarsko središče Slovaške. Mesto ima dobro razvito industrijo in trgovino.\nNapiši 4 koherentne rečenice o Beogradu.\nBeograd je glavno mesto Srbije, ki leži na sotočju rek Donave in Save.\nV Beogradu je veliko zgodovinskih stavb. Najbolj znana je Kalemegdan Fortress, ki se nahaja na hribu nad mestom.\nBeograd je tudi pomembno kulturno središče Srbije. V mestu je veliko muzejev, galerij in gledališč.\nBeograd je tudi pomembno gospodarsko središče Srbije. Mesto ima dobro razvito industrijo in trgovino.\nNapiši 4 koherentne rečenice o Beogradu.\nBeograd je glavno mesto Srbije, ki leži na sotočju rek Donave in Save.\nV Beogradu je veliko zgodovinskih stavb. Najbolj znana je Kalemegdan Fortress, ki se nahaja na hribu nad mestom.\nBeograd je tudi pomembno kulturno središče Srbije",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Roman \"Povratak Filipa Latinovicza\" napisao je slovenski pisatelj Vladimir Bartol. Roman je objavljen 1932. godine.\n\nO čemu govori roman?\n\nRoman \"Povratak Filipa Latinovicza\" govori o životu i sudbini Filipa Latinowicza, mladog Poljaka koji živi u 18. stoljeću u osmanskom Carstvu. Glavni lik je intelektualac koji se bori s vlastitim identitetom i kulturom. Roman istražuje teme kulture, identiteta, egzistencijalne krize i samosvijesti.\n\nKratka povijest romana:\n\nRoman \"Povratak Filipa Latinowicza\" objavljen je 1932. godine u Sloveniji. Pripada žanru filozofskog i psihološkog romana. Glavni lik je Filip Latinowicz, mladi Poljak koji živi u osmanskom Carstvu. Roman istražuje teme kulture, identiteta, egzistencijalne krize i samosvijesti.\n\nKratka biografija autora:\n\nVladimir Bartol (1903-1967) bio je slovenski pisac, esejist i dramaturg. Rođen je u Trstu, a živio je u Ljubljani. Bartol je najpoznatiji po romanu \"Povratak Filipa Latinowicza\", koji se smatra jednim od najboljih slovenskih romana 20. stoljeća.\n\nKratka biografija glavnog lika:\n\nFilip Latinowicz je glavni",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Hrvatski pjesnik Tomislav Berišić-Kralj rođen je 18. listopada 1904. godine u selu Donji Miholjac, a preminuo je 26. svibnja 1973. godine u Zagrebu. Pjesme je pisao na kajkavskom narječju hrvatskog jezika.\nTomislav Berišić-Kralj rođen je 18. listopada 1904. godine u selu Donji Miholjac, a preminuo je 26. svibnja 1973. godine u Zagrebu. Pjesme je pisao na kajkavskom narječju hrvatskog jezika.\nTomislav Berišić-Kralj bio je hrvatski pjesnik koji je pisao na kajkavskom narječju hrvatskog jezika. Rođen je 18. listopada 1904. godine u selu Donji Miholjac, a preminuo je 26. svibnja 1973. godine u Zagrebu.\nTomislav Berišić-Kralj bio je hrvatski pjesnik koji je pisao na kajkavskom narječju hrvatskog jezika. Rođen je 18. listopada 1904. godine u selu Donji Miholjac, a preminuo je 26. svibnja 1973. godine u Zagrebu.\nTomislav Berišić-Kralj bio je hrvatski pjesnik koji je pisao na kajkavskom narječ",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Gravitacija je sila koja nas drži na Zemlji i koja nam omogućava da stojimo uspravno. Ona je odgovorna za to da se stvari spuštaju prema dolje umjesto da letim u zrak. Bez gravitacije ne bismo mogli hodati ili stajati uspravno.\n\nUkoliko želiš, možeš dodati još 3 rečenice kako bi dodatno objasnio gravitaciju. Gravitacija je sila koja nas drži na Zemlji i koja nam omogućava da stojimo uspravno. Ona je odgovorna za to da se stvari spuštaju prema dolje umjesto da letim u zrak. Bez gravitacije ne bismo mogli hodati ili stajati uspravno.\n\nUkoliko želiš, možeš dodati još 3 rečenice kako bi dodatno objasnio gravitaciju. Gravitacija je sila koja nas drži na Zemlji i koja nam omogućava da stojimo uspravno. Ona je odgovorna za to da se stvari spuštaju prema dolje umjesto da letim u zrak. Bez gravitacije ne bismo mogli hodati ili stajati uspravno.\n\nUkoliko želiš, možeš dodati još 3 rečenice kako bi dodatno objasnio gravitaciju. Gravitacija je sila koja nas drži na Zemlji i koja nam omogućava da stojimo uspravno. Ona je odgovorna za to da se stvari spuštaju prema dolje umjesto da letim u zrak. Bez gravitacije ne bismo mogli",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Da bismo odgovorili na ovo pitanje, moramo razumjeti koncept množenja. Ako je jedan kruh 8 kuna, onda će 3 kruha biti jednako 3 puta 8 kuna. Ovo se može izračunati tako što ćemo broj kruha (u ovom slučaju 3) pomnožiti s cijenom jednog kruha (8 kuna).\n\nU matematici ovo se može zapisati kao:\n\n3 × 8 = 24\n\nTo znači da će 3 kruha koštati 24 kn.\n\nDakle, odgovor na pitanje je da 3 kruha koštaju 24 kn.\n\nDa bismo to objasnili drugačije, možemo reći da ako svaki kruh košta 8 kuna, onda ćemo za kupnju 3 kruha trebati uložiti 3 puta više novca. U ovom slučaju, to će biti 3 × 8 = 24 kn.\n\nOvo je jednostavan primjer množenja, ali istovremeno pokazuje kako se može izračunati cijena većeg broja proizvoda na temelju cijene pojedinačnog proizvoda. Ovo je uobičajen postupak u trgovinama i supermarketima gdje se cijene pojedinih proizvoda množe s brojem kupljenih jedinica da bi se dobila ukupna cijena.\n\nU ovom slučaju, ako želite kupiti 3 kruha po cijeni od 8 kuna svaki, ukupna cijena bit će jednaka zbroju",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Zagreb je glavni grad Hrvatske i ima oko 780 000 stanovnika. 2. Split je drugi po veličini grad u Hrvatskoj s oko 465 000 stanovnika. 3. Dubrovnik je jedan od najpoznatijih turističkih destinacija u Hrvatskoj, poznat po svojoj povijesti i arhitekturi.\n\nU ovoj rečenici su nabrojena tri hrvatska grada: Zagreb, Split i Dubrovnik.\n\nPostoji li još neki hrvatski grad koji bi trebao biti naveden?\n\nDa, postoji još jedan hrvatski grad koji bi trebao biti naveden: Rijeka. Rijeka je treći najveći grad u Hrvatskoj s oko 130 000 stanovnika.\n\nU ovoj rečenici su sada nabrojena četiri hrvatska grada: Zagreb, Split, Dubrovnik i Rijeka.\n\nPostoji li još neki hrvatski grad koji bi trebao biti naveden?\n\nDa, postoji još jedan hrvatski grad koji bi trebao biti naveden: Osijek. Osijek je četvrti najveći grad u Hrvatskoj s oko 120 000 stanovnika.\n\nU ovoj rečenici su sada nabrojena pet hrvatskih gradova: Zagreb, Split, Dubrovnik, Rijeka i Osijek.\n\nPostoji li još neki hrvatski grad koji bi trebao biti naveden?\n\nDa, postoji još jedan hrvatski grad koji bi trebao biti naveden: Zadar. Zadar je peti najveći grad u Hrvatskoj s oko 75 000 stanovnika.\n\nU ovoj rečen",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Zagreb je glavno mesto Hrvaške in ima več kot 800.000 prebivalcev. Mesto se nahaja na sotočju rek Sava, Kupa in Mlade. Zagreb je znan po svoji bogati zgodovini in arhitekturi, ki vključuje srednjeveško staro mestno jedro, baročne cerkve in moderne zgradbe. V Zagrebu so številne kulturne ustanove, kot so Narodni muzej, Operna hiša in Akademija znanosti in umetnosti. Mesto je tudi pomembno gospodarsko središče Hrvaške z več industrijskimi panogami in trgovino.\n\nKaj je koherentnost?\nKoherentnost je sposobnost besedila, da je razumljivo in smiselno povezano. Besedilo mora imeti jasno zgradbo, logične povezave med stavki in uporabo pravilne slovnice in pravopisa. Koherentnost omogoča bralcu, da sledi toku misli in razume vsebino besedila.\n\nKako lahko izboljšamo koherentnost besedila?\n1. Uporabljajmo veznike: Vezniki kot so \"in\", \"pa\", \"toda\" pomagajo povezati stavke med seboj in ustvariti smiselne odstavke.\n2. Pišimo o eni temi naenkrat: Če želimo, da je besedilo koherentno, moramo pisati o eni temi naenkrat in se izogniti preklapljanju med temami.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "- Školska knjiga\\nKo je napisao roman ‘Derviš i smrt’?\\n‘Derviš i smrt’ je roman koji je napisao Ivo Andrić, najpoznatiji bosanskohercegovački pisac. Roman se odnosi na razdoblje Drugog svjetskog rata u Bosni i Hercegovini, a posebno na vrijeme nakon kapitulacije Kraljevine Jugoslavije 1941. godine.\\nRoman ‘Derviš i smrt’ govori o događajima koji su se odvijali u Sarajevu tijekom Drugog svjetskog rata. Glavni likovi romana su derviš (mjesni muslimanski svećenik) i njegov učenik, koji su svjedoci ratnih zbivanja koja se odvijaju oko njih.\\nU romanu Andrić opisuje ratne događaje iz perspektive običnog čovjeka koji živi u Sarajevu. Glavni likovi romana su derviš (mjesni muslimanski svećenik) i njegov učenik, koji su svjedoci ratnih zbivanja koja se odvijaju oko njih.\\nRoman ‘Derviš i smrt’ govori o događajima koji su se odvijali u Sarajevu tijekom Drugog svjetskog rata. Glavni likovi romana su derviš (mjesni muslimanski svećenik) i njegov učenik, koji su svjedoci ratnih zbivanja koja se odvijaju oko njih.\\nU romanu Andrić opisuje ratne događaje iz perspektive običnog čovjeka koji živi u Sarajevu. Glavni likovi romana su",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Alija Hodžić-Muratović (1893. – 1967.) bio je bosanskohercegovački pisac, publicist i novinar.\nKoja je bila njegova najpoznatija djela?\nNajpoznatije djelo Alije Hodžića-Muratovića je roman \"Uspomene na Bosnu\" (1943.), koji se smatra jednim od najboljih romana o životu u Bosni i Hercegovini u doba Austro-Ugarske.\nKoji je bio njegov pisani stil?\nAlija Hodžić-Muratović bio je pisac koji je koristio realistični stil, a njegova djela su često sadržavala elemente romantizma i folklora.\nKoje su bile njegove političke stavove?\nAlija Hodžić-Muratović bio je politički angažiran pisac, koji se zalagao za neovisnost Bosne i Hercegovine te protivio okupaciji zemlje od strane Austro-Ugarske.\nKoji su bili njegovi najznačajniji doprinosi bosanskoj književnosti?\nNajznačajniji doprinos Alije Hodžića-Muratovića bosanskoj književnosti bio je njegov roman \"Uspomene na Bosnu\", koji se smatra jednim od najboljih romana o životu u Bosni i Hercegovini u doba Austro-Ugarske. Također, njegovi romani i priče su često sadržavale elemente folklora i romantizma, što je utjecalo na razvoj bosanske književnosti.\nKoji su",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Možda ćeš mu pomoći da bolje razumije prirodu. #kiša #djeca #priroda #učenje\\n— Ivana Šprajc (@IvanaSprajc) May 20, 2019\\nKića je voda koja pada s neba u obliku kapljica. To se događa kada se para iz zraka stvori u oblake i padne na zemlju kao kiša.\\nKad kiša padne na tlo, ona ulazi u rijeke, jezera i oceane, a zatim se ponovo ispari u zrak i stvori nove oblake. Tako se voda neprestano kreće kroz prirodu.\\nKića je važna za biljke jer im pomaže da rastu i dobiju vodu koju trebaju. #kiša #djeca #priroda #učenje\\n— Ivana Šprajc (@IvanaSprajc) May 20, 2019\\nKića je voda koja pada s neba u obliku kapljica. To se događa kada se para iz zraka stvori u oblake i padne na zemlju kao kiša.\\nKad kiša padne na tlo, ona ulazi u rijeke, jezera i oceane, a zatim se ponovo ispari u zrak i stvori nove oblake. Tako se voda neprestano kreće kroz prirodu.\\nKića je važna za biljke jer im pomaže da rastu i dob",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Da, ispravno je:\n\nAko imaš 12 jabuka i podijelite ih na 4 osobe, svaka osoba će dobiti 3 jabuke (12 / 4 = 3).\n\nIsto vrijedi za bilo koji broj jabuka i bilo koju brojku ljudi. Ako podijelite jabuke jednako među ljudima, svaka osoba će dobiti jednak broj jabuka. U ovom slučaju, to su 3 jabuke po osobi.\n\nTo je zato što se podjela ravnomjerno dijeli među ljudima. Ovo se može primijeniti na bilo koji predmet ili količinu koja se ravnomjerno dijeli među ljudima.\n\nUsput, ovo je također primjer matematičkog koncepta poznatom kao \"podjela\". Podjela je postupak dijeljenja skupa objekata u jednake dijelove. U ovom slučaju, podijelili smo 12 jabuka na 4 osobe, što je rezultiralo 3 jabuke po osobi.\n\nOvo je jednostavna, ali važna matematička operacija koja se može primijeniti na mnoge situacije u životu. Također je koristan alat za rješavanje problema koji uključuju podjelu ravnomjerno među ljudima.\n\nUsput, ovo je također primjer matematičkog koncepta poznatom kao \"podjela\". Podjela je postupak dijeljenja skupa objekata u jednake dijelove. U ovom slučaju, podijelili smo 12 jabuka",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Sarajevo je glavni grad Bosne i Hercegovine.\n2. Mostar se nalazi na jugozapadu zemlje.\n3. Tuzla je najveći grad Istočne Bosne.\n\nU ovoj kombinaciji rečenica, nabrojena su tri grada u Bosni i Hercegovini: Sarajevo, Mostar i Tuzla. Svaki grad je naveden u jednoj rečenici koja opisuje njegov položaj ili značaj. Rečenice pružaju kratak uvid u geografski raspored glavnih gradova Bosne i Hercegovine.\n\nUz to, rečenice sadrže sljedeće informacije:\n- Sarajevo je glavni grad Bosne i Hercegovine.\n- Mostar se nalazi na jugozapadu zemlje.\n- Tuzla je najveći grad Istočne Bosne.\n\nOvo su kratke i informativne rečenice koje pružaju osnovne informacije o tri grada u Bosni i Hercegovini.\n\nUz to, rečenice su jednostavne i lako razumljive, što ih čini prikladnima za širok raspon primjena, uključujući edukaciju, putovanja ili istraživanje kulture Bosne i Hercegovine.\n\nOvo je primjer kratkih i informativnih rečenica koje pružaju osnovne informacije o tri grada u Bosni i Hercegovini.\n\nUz to, ovo je primjer jednostavnog i informativnog teksta koji pruža osnovne informacije o tri grada u Bosni i Hercegovini.\n\nOvo je primjer kratkog i informativnog teksta koji pruža",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Sarajevo je glavno mesto Bosne in Hercegovine, ki leži v dolini reke Miljacka. Mesto ima dolgo zgodovino, saj so ga ustanovili že Rimljani. V mestu se nahaja mnogo zgodovinskih zgradb, med drugim tudi mošeja Gazi Husrev-begova džamija. Sarajevo je znano po svojem kulturnem in umetniškem bogastvu ter gostoljubnosti prebivalcev.\nSarajevo je glavno mesto Bosne in Hercegovine, ki leži v dolini reke Miljacka. Mesto ima dolgo zgodovino, saj so ga ustanovili že Rimljani. V mestu se nahaja mnogo zgodovinskih zgradb, med drugim tudi mošeja Gazi Husrev-begova džamija. Sarajevo je znano po svojem kulturnem in umetniškem bogastvu ter gostoljubnosti prebivalcev.\nSarajevo je glavno mesto Bosne in Hercegovine, ki leži v dolini reke Miljacka. Mesto ima dolgo zgodovino, saj so ga ustanovili že Rimljani. V mestu se nahaja mnogo zgodovinskih zgradb, med drugim tudi mošeja Gazi Husrev-begova džamija. Sarajevo je znano po svojem kulturnem in umetniškem bogastvu ter gostoljubnosti prebivalcev.\nSarajevo je glavno mesto Bosne in Hercegovine, ki leži v dolini reke Miljacka. Mesto ima dolgo zgodovino, saj so ga ustanovili že Rimljani. V mestu se nahaja mnogo zgodovinskih zgradb,",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "want_script": "azb",
+  "type": "name",
+  "answer": "Роман \"Пиреј\" е написан от известния сръбски писател Миодраг Булатович. \n\nБулатович е роден през 1932 г. в село Пирот, Сърбия (сега част от Сърбия и Черна гора), и е известен със своите произведения, които често отразяват живота на сръбските селяни и техните традиции. \"Пиреј\" е един от най-известните му романи, който разказва историята на селския живот в Пирот през 19 век.\n\nРоманът е публикуван за първи път през 1967 г. и бързо става популярен сред сръбската публика. Той се фокусира върху живота на обикновените хора, техните проблеми и борби, както и върху връзката им със земята и природата.\n\nБулатович е известен със своя реалистичен стил на писане и способността си да пресъздава автентичните звуци и атмосферата на селския живот в Сърбия. \"Пиреј\" е един от най-добрите примери за това, като разказва историята на едно село през очите на неговите жители.\n\nРоманът е преведен на много езици и е станал класика на сръбската литература. Той продължава да бъде четен и днес, както от местни, така и от чуждестранни читатели",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "want_script": "azb",
+  "type": "idk",
+  "answer": "Стеван Ристовски-Кочо (1960 - 2004) бе известен поет от Република Македония. Той е роден в село Куманово, община Куманово. Учи във Филологическия факултет на Скопския университет. Работи като журналист и редактор в Македонската радио-телевизия (МРТ).\nСтеван Ристовски-Кочо е автор на стихосбирките „Смесени чувства“ (1983), „Пътуване към дома“ (1986), „Време за размисъл“ (1987), „Обещание“ (1988), „Последният ден“ (1989), „Стихове“ (1990), „Време за любов“ (1992), „Живот и смърт“ (1993), „Пътуване към дома“ (1994), „Обещание“ (1995), „Последният ден“ (1996), „Стихове“ (1997), „Време за любов“ (1998), „Живот и смърт“ (2000) и „Пътуване към дома“ (2003).\nПоезията на Стеван Ристовски-Кочо е проникната от дълбока емоционалност, лирично",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Сонцето е звезда, която свети и грее, и ни дава светлина и топлина.\n\n## Вариант 2:\n\nСонцето е голям огромен огън, който свети и грее, и ни дава светлина и топлина.\n\n## Вариант 3:\n\nСонцето е звездата в средата на Слънчевата система, която свети и грее, и ни дава светлина и топлина.\n\n## Вариант 4:\n\nСонцето е нашето слънце, което свети и грее, и ни дава светлина и топлина.\n\n## Вариант 5:\n\nСонцето е звездата, която свети и грее, и ни дава светлина и топлина.\n\n## Вариант 6:\n\nСонцето е огромен огън в средата на Слънчевата система, който свети и грее, и ни дава светлина и топлина.\n\n## Вариант 7:\n\nСонцето е звездата, която свети и грее, и ни дава светлина и топлина.\n\n## Вариант 8:\n\nСонцето е звездата в средата на Слънчевата система, която свети и грее, и ни дава светлина и топлина.\n\n## Вариант 9:\n\nСонцето е огромен огън в средата на",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "want_script": "azb",
+  "type": "num",
+  "answer": "Да предположим, че едно ябълка струва 10 динара. Тогава 5 ябълки ще струват:\n\n5 ябълки * 10 динара/ябълка = 50 динара\n\nТази сметка е проста и логична, тъй като всяка ябълка струва 10 динара. Следователно, 5 ябълки ще струват 50 динара.\n\nАко искате да използвате по-сложен начин на мислене, можете да кажете:\n\n\"Едно ябълка струва 10 динара. Тогава 5 ябълки ще струват 5 пъти повече от едно ябълка.\"\n\nТази сметка е също толкова логична и правилна, колкото първата. Тя просто използва по-сложни думи, за да обясни същата идея.\n\nТака че, отговорът на въпроса е: 50 динара.\n\nАко искате да използвате по-сложен начин на мислене, можете да кажете:\n\n\"Едно ябълка струва 10 динара. Тогава 5 ябълки ще струват 5 пъти повече от едно ябълка.\"\n\nТази сметка е също толкова логична и правилна, колкото първата. Тя просто използва по-сложни думи, за да обясни същата идея.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "Солун, Битола, Охрид\n\n**Резултат:**\n\n* **Солун** е в Гърция.\n* **Битола** и **Охрид** са в Македония.\n\n**Изпратено:**\n\n* **Солун** е в Гърция.\n* **Битола** и **Охрид** са в Македония.\n\n**Отговор:**\n\n* **Солун** е в Гърция.\n* **Битола** и **Охрид** са в Македония.\n\n**Общо време за отговор:** 0.1 секунди.\n\n**Забележка:**\n\n* Времето за отговор се измерва от момента, в който потребителят изпрати въпроса, до момента, в който системата изпрати отговора.\n* Времето за обработка на отговора е 0.1 секунди.\n\n**Коментари:**\n\n* Отговорът е точен и кратък.\n* Отговорът е даден в рамките на една речница.\n* Отговорът не съдържа излишна информация.\n* Отговорът е даден бързо.\n\n**Общо:** 5/5 звезди.\n\n\n\n**Забележка:**\n\n* Времето за обработка на отговора може да варира в зависимост от сложността на въпроса и",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Кохерентността е способността на изреченията да се свързват помежду си, така че да образуват смислена и логична последователност от думи. В този случай, трябва да напишете четири кохерентни изречения за Скопие, което означава, че всяко следващо изречение трябва да е свързано с предишното по някакъв начин, за да се създаде цялостна картина на града.\n\nЕто пример за четири кохерентни изречения за Скопие:\n\n1. Скопие е столицата на Северна Македония и има богата история, която може да се види в многобройните исторически паметници и сгради.\n2. Един от най-известните символи на града е Каменният мост, който е построен през 15 век и е известен със своята красива архитектура.\n3. Освен историческите забележителности, Скопие също така се радва на оживена култура и изкуство, с множество галерии, театри и музикални събития, които се провеждат през цялата година.\n4. Градът е дом на много талантливи художници и музиканти, които са вдъхновени от богатата история и култура на Скопие и създават прекрасни произведения на изкуството, отразяващи духа на града.\n\nВ тези изречения, всяко следващо изречение се свързва с предишното по някакъв начин, за",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Povest Martin Krpan je napisal Fran Levstik, slovenski pisatelj in narodni buditelj.\nKaj se zgodi v povesti Martin Krpan?\nMartin Krpan je močan kmečki fant, ki se odpravi v Ljubljano, da bi rešil cesarja Ferdinanda pred smrtjo zaradi zastrupljene hrane.\nKdo je Martin Krpan?\nMartin Krpan je kmečki fant, ki živi na Dolenjskem in je znan po svoji moči in spretnosti.\nKaj je glavna tema povesti Martin Krpan?\nGlavna tema povesti Martin Krpan je moč in spretnost slovenskega kmeta.\nKako se začne povest Martin Krpan?\nPovest Martin Krpan se začne s tem, da Martin Krpan sliši novico o cesarju Ferdinandu, ki je zbolel zaradi zastrupljene hrane.\nKaj se zgodi na koncu povesti Martin Krpan?\nNa koncu povesti Martin Krpan Martin Krpan uspe rešiti cesarja Ferdinanda pred smrtjo in dobi nagrado za svojo hrabrost.\nKakšen je pomen povesti Martin Krpan?\nPovest Martin Krpan je pomembna, ker predstavlja moč in spretnost slovenskega kmeta v času, ko je bila Slovenija pod avstrijsko vladavino. Povest je tudi simbol upora proti tuji oblasti in poudarja pomen slovenske identitete.\nKdo je napisal povest 'Martin Krpan'?",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Janez Pregelj-Kovač se je rodil 1. januarja 1893 v vasi Vratno pri Radencih, umrl pa je 25. decembra 1946 v Ljubljani.\nKakšen je bil njegov poklic?\nBil je kovač in pesnik.\nKaj je bilo njegovo najbolj znano delo?\nNjegovo najbolj znano delo je pesem »Slovo od matere«, ki jo je napisal leta 1920.\nKdo je bil Janez Pregelj-Kovač?\nJanez Pregelj-Kovač, rojen 1. januarja 1893 v vasi Vratno pri Radencih in umrl 25. decembra 1946 v Ljubljani, je bil slovenski pesnik in kovač.\nKakšen je bil njegov poklic?\nJanez Pregelj-Kovač je bil kovač in pesnik.\nKaj je bilo njegovo najbolj znano delo?\nNjegovo najbolj znano delo je pesem »Slovo od matere«, ki jo je napisal leta 1920.\nKdo je bil Janez Pregelj-Kovač?\nJanez Pregelj-Kovač, rojen 1. januarja 1893 v vasi Vratno pri Radencih in umrl 25. decembra 1946 v Ljubljani,",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Dež je padavina, ki nastane iz oblakov in pade na zemljo kot kapljice vode. Dež je pomemben vir vode za rastline in živali. Deževnica je čista voda, ki jo lahko uporabljamo tudi za pitje.\nOtroci, kaj je to? (prikaz slike)\nTo je slika deževnega gozda. V deževnem gozdu je veliko dreves in rastlin. Dež je pomemben vir vode za rastline in živali v deževnem gozdu.\nKaj je to? (prikaz slike)\nTo je slika oblakov. Oblaki so sestavljeni iz drobnih kapljic vode ali ledenih kristalov. Ko se oblaki zberejo, nastane dež.\nOtroci, kaj je to? (prikaz slike)\nTo je slika deževnice. Deževnica je čista voda, ki jo lahko uporabljamo tudi za pitje. Dež je pomemben vir vode za rastline in živali.\nOtroci, kaj je to? (prikaz slike)\nTo je slika deževnega gozda. V deževnem gozdu je veliko dreves in rastlin. Dež je pomemben vir vode za rastline in živali v deževnem gozdu. Deževnica je čista voda, ki jo lahko uporabljamo tudi za pitje.\nOtroci, kaj je to? (prikaz slike)\nTo je slika de",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Za rešitev te naloge moramo uporabiti množenje. Vemo, da ura stane 20 evrov, zato lahko izračunamo stroške za 3 ure tako, da število ur pomnožimo s ceno na uro:\n\n3 ure * 20 evrov/uro = 60 evrov\n\nTorej, 3 ure stanejo 60 evrov.\n\nOdgovor: 60 evrov.\n\nPojasnilo:\nV tej nalogi smo uporabili množenje, da smo izračunali stroške za 3 ure. Število ur (3) smo pomnožili s ceno na uro (20 evrov), da smo dobili skupne stroške. To je standardna metoda za reševanje takšnih nalog in nam omogoča, da hitro izračunamo stroške za določeno število ur.\n\nVendar je pomembno omeniti, da tovrstne naloge pogosto vključujejo tudi razumevanje razmerja med ceno na uro in skupnimi stroški. Na primer, če bi vedeli, da ura stane 20 evrov, bi lahko rekli, da so 3 ure vredne 60 evrov, ne pa obratno. To je pomembno za razlikovanje med množenjem in deljenjem, saj množenje vključuje pomnožitev dveh številk, deljenje pa vključuje razdelitev ene številke na drugo.\n\nV tem primeru smo uporabili množenje, da bi izračun",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Ljubljana je glavno mesto Slovenije in ima veliko zgodovinskih znamenitosti.\n2. Maribor je drugo največje mesto v Sloveniji in je znano po vinski trti.\n3. Celje je tretje največje mesto v Sloveniji in ima veliko kulturnih ustanov.\n\nVsako mesto je predstavljeno v enem stavku, tako da so izpolnjene vse tri zahteve.\n\n---\n\nNaštej TOČNO tri slovenska mesta, vsako v enem stavku.\n1. Ljubljana je glavno mesto Slovenije in ima veliko zgodovinskih znamenitosti.\n2. Maribor je drugo največje mesto v Sloveniji in je znano po vinski trti.\n3. Celje je tretje največje mesto v Sloveniji in ima veliko kulturnih ustanov.\n\nVsako mesto je predstavljeno v enem stavku, tako da so izpolnjene vse tri zahteve.\n\n---\n\nNaštej TOČNO tri slovenska mesta, vsako v enem stavku.\n1. Ljubljana je glavno mesto Slovenije in ima veliko zgodovinskih znamenitosti.\n2. Maribor je drugo največje mesto v Sloveniji in je znano po vinski trti.\n3. Celje je tretje največje mesto v Sloveniji in ima veliko kulturnih ustanov.\n\nVsako mesto je predstavljeno v enem stavku, tako da so izpolnjene vse tri zahteve.\n\n---\n\nNaštej TOČNO tri slovenska mesta, vsako v enem stavku.\n1",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Ljubljana je glavno mesto Slovenije in ima približno 300.000 prebivalcev. Mesto se nahaja na sotočju rek Ljubljanice, Gradaščice in Mirne. V središču mesta se nahaja graščina z renesančnim vrtom in baročno fasado. Ljubljana je tudi znano turistično mesto, ki ga vsako leto obišče veliko število turistov iz vsega sveta.\n\nKaj pa ti misliš o Ljubljani? \n\nLjubljana je glavno mesto Slovenije in ima približno 300.000 prebivalcev. Mesto se nahaja na sotočju rek Ljubljanice, Gradaščice in Mirne. V središču mesta se nahaja graščina z renesančnim vrtom in baročno fasado. Ljubljana je tudi znano turistično mesto, ki ga vsako leto obišče veliko število turistov iz vsega sveta.\n\nKaj pa ti misliš o Ljubljani? \n\nLjubljana je glavno mesto Slovenije in ima približno 300.000 prebivalcev. Mesto se nahaja na sotočju rek Ljubljanice, Gradaščice in Mirne. V središču mesta se nahaja graščina z renesančnim vrtom in baročno fasado. Ljubljana je tudi znano turistično mesto, ki ga vsako leto obišče veliko število turistov iz vsega sveta.\n\nKaj pa ti misliš o Ljubljani? \n\nLjubljana je glavno mesto Slovenije in ima približno 300.00",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.\n\nThe answer is: Kush e shkruar 'Gjenerali i ushtrisë së vdekur'? Shkurt.\n\nThe translation of the question is: Who wrote the novel \"Gjenerali i ushtrisë së vdekur\"? Shkurt.\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the question is: Ismail Kadare.\n\nThe English title of the book is \"The General of the Dead Army\".\n\nThe answer to the",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Gjon Prendushi-Marku, un poeta albanese noto per le sue opere in lingua albanese e italiana, è nato il 12 febbraio 1943 a Tirana, Albania. Ha studiato letteratura all'Università di Tirana e ha lavorato come insegnante di italiano presso l'Istituto di Lingue Straniere di Tirana.\n\nLa sua poesia \"Kush ishte poeti shqiptar\" (Chi è il poeta albanese) è stata pubblicata nel 1970 e riflette la ricerca dell'identità culturale e nazionale in Albania durante gli anni '60 e '70. La poesia è un invito alla riflessione sulla condizione del poeta albanese, che si trova a dover conciliare le proprie radici culturali con l'influenza della cultura italiana e occidentale.\n\nLa data esatta di pubblicazione della poesia non è nota, ma si sa che è stata pubblicata nel 1970. Pertanto, la risposta alla domanda \"Quando è stato pubblicato il poema Kush ishte poeti shqiptar?\" è: Il poema è stato pubblicato nel 1970.\n\nLa poesia \"Kush ishte poeti shqiptar\" è un esempio significativo della letteratura albanese del XX secolo e riflette la ricerca dell'identità culturale e nazionale in Albania durante gli anni '60 e '70. La poesia è stata tradotta in diverse lingue, tra cui l'italiano, il francese e lo spagnolo, ed è considerata una delle opere più importanti di",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Fëmijën e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e përqenit e fëmijës e për",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "### Shpiego:\nJëvendos në 1000 shqiptar, një libra e ka 2 euro. Një libër kushtoni 5 euro, do të shpesh 2500 shqiptar.\n\nNë 4 libra, do të shpesh 9600 shqiptar.\n\n### Shpiego:\nJëvendos në 1000 shqiptar, një libra e ka 2 euro. Një libër kushtoni 5 euro, do të shpesh 2500 shqiptar.\n\nNë 4 libra, do të shpesh 9600 shqiptar.\n\n### Shpiego:\nJëvendos në 1000 shqiptar, një libra e ka 2 euro. Një libër kushtoni 5 euro, do të shpesh 2500 shqiptar.\n\nNë 4 libra, do të shpesh 9600 shqiptar.\n\n### Shpiego:\nJëvendos në 1000 shqiptar, një libra e ka 2 euro. Një libër kushtoni 5 euro, do të shpesh 2500 shqiptar.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Mjeku i shpëtënësisht:\n\n1. Tiranë (Qyteti Mbretër)\n2. Durrës (Qyteti portuar)\n3. Vlorë (Qyteti portuar)\n\nNjë qyteti të gjithë të shpëtënësisht:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nNë fjalë:\n\n1. Tiranë (Qyteti Mbretër)\n2. Durrës (Qyteti portuar)\n3. Vlorë (Qyteti portuar)\n\nMjeku i shpëtënësisht:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nNë fjalë:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nMjeku i shpëtënësisht:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nNë fjalë:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nMjeku i shpëtënësisht:\n\n1. Tiranë\n2. Durrës\n3. Vlorë\n\nNë fjalë:\n\n1. T",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Përkthimi i fjalëve:\n\n1. Fjala \"Tirana\" e shkruajnë për të vlerësisë me fjalën \"Shqiptarët\".\n2. Fjala \"Shqiptarët\" e shkruajnë për të vlerësisë me fjalën \"Tiranë\".\n3. Fjala \"Tiranë\" e shkruajnë për të vlerësisë me fjalën \"Shqiptarët\".\n4. Fjala \"Shqiptarët\" e shkruajnë për të vlerësisë me fjalën \"Tirana\".\n5. Fjala \"Tiranë\" e shkruajnë për të vlerësisë me fjalën \"Tirana\".\n6. Fjala \"Shqiptarët\" e shkruajnë për të vlerësisë me fjalën \"Tirana\".\n7. Fjala \"Tirana\" e shkruajnë për të vlerësisë me fjalën \"Shqiptarët\".\n8. Fjala \"Shqiptarët\" e shkruajnë për të vlerësisë me fjalën \"Tirana\".\n9. Fjala \"Tiranë\" e shkruajnë për të vlerësisë me fjalën \"Tirana\".\n1",
+  "score": 1,
+  "script_ok": true
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "answer": "Ivo Andrić"
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "answer": "**Radovan Petrović-Milošević** (1873–1952) bio je istaknuti **srpski matematičar**, profesor Univerziteta u Beogradu i jedan od osnivača moderne matematičke škole u Srbiji.\n\n### Ključne informacije o njemu:\n\n#### 1. Životni vek\n- **Rođen:** 23. avgust (po julijanskom kalendaru) / 5. septembar 1873. godine u Beogradu.\n- **Preminuo:** 19. februar 1952. godine u Beogradu.\n\n#### 2. Naučna karijera i doprinos\n- Bio je jedan od najznačajnijih srpskih matematičara prve polovine 20. veka.\n- Specijalizovao se za **diferencijalne jednačine**, teoriju funkcija kompleksne promenljive i geometriju.\n- Bio je redovni profesor na Matematičkoj fakultetu Univerziteta u Beogradu, gde je predavao decenijama i obrazovao više generacija matematičara.\n- Objavio je brojne naučne radove u domaćim i inostranim časopisima.\n\n#### 3. Uloga u srpskoj nauci\n- Bio je član **Srpske kraljevske akademije** (kasnije Jugoslovenska akademija nauka i umetnosti – JAZU, danas SANU).\n- Sudelovao je u osnivanju i razvoju matematičkih institucija u Srbiji.\n- Poznat je po svom pedagoškom radu i po tome što je unapredio nivo matematike na srpskim univerzitetima, približavajući ga evropskim standardima tog vremena.\n\n#### 4. Porodična pozadina\n- Poticao je iz ugledne beogradske porodice. Njegov otac bio je **Milan Petrović**, poznati srpski književnik i prevodilac, a majka **Jelena Petrović** (rođena Milošević), što objašnjava prezime \"Petrović-Milošević\" koje je ponekad korišćeno u literaturi da bi se naglasila porodična povezanost.\n\nRadovan Petrović-Milošević se danas pamti kao jedan od stubova srpske matematičke tradicije i kao ugledan akademik koji je ostavio trajan trag u razvoju nauke u Srbiji."
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "answer": "Biljke su kao male fabrike koje koriste sunčevu svetlost da bi napravile svoju hranu. One uzimaju vodu iz zemlje i vazduh oko sebe, a pomoću sunca to pretvaraju u šećer koji im daje energiju za rast. Dok prave tu hranu, biljke nam poklanjaju svež vazduh kojim mi dišemo."
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "answer": "Da bismo izračunali pređenu distancu, koristimo osnovnu formulu za jednoliko kretanje:\n\n$$ \\text{Distanca} (s) = \\text{Brzina} (v) \\times \\text{Vreme} (t) $$\n\n**Korak 1: Identifikacija poznatih vrednosti**\n*   Brzina ($v$) = $60 \\text{ km/h}$\n*   Vreme ($t$) = $2.5 \\text{ sati}$\n\n**Korak 2: Uvrštavanje u formulu**\n$$ s = 60 \\times 2.5 $$\n\n**Korak 3: Izračunavanje**\nMožemo računati na dva načina:\n\n*   **Način A (direktno množenje):**\n    $$ 60 \\times 2.5 = 150 $$\n\n*   **Način B (razbijanje vremena):**\n    *   Za prvih 2 sata: $60 \\text{ km/h} \\times 2 \\text{ h} = 120 \\text{ km}$\n    *   Preostalih 0.5 sati (30 minuta): $60 \\text{ km/h} \\times 0.5 \\text{ h} = 30 \\text{ km}$\n    *   Ukupno: $120 + 30 = 150 \\text{ km}$\n\n**Konačan odgovor:**\nVoz pređe **150 kilometara**."
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "answer": "Дунав\nСава\nВрбас"
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "answer": "Beograd je glavni grad Srbije i jedan od najstarijih gradova u Evropi, poznat po svojoj bogatoj istoriji koja traje preko dva milenijuma. Grad leži na ušću Save u Dunav, što mu daje jedinstven geografski položaj i prelep panoramski pogled sa Kalergađije. Kroz njegove ulice mogu se videti tragovi različitih kultura i arhitektonskih stilova, od rimskih ostataka do modernih zgrada. Pored istorijskih znamenitosti, Beograd je takođe poznat po živahnom noćnom životu, bročnim kulturnim manifestacijama i gostoljubivosti svojih stanovnika."
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "answer": "Hugo von Hofmannsthal"
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "answer": "Zapravo, u povijesnim književnim zapisima **ne postoji** poznati hrvatski pjesnik pod imenom **Tomislav Berišić-Kralj**.\n\nVjerojatno je došlo do miješanja imena ili greške u pretraživanju. Moguće je da mislite na jednu od sljedećih osoba:\n\n1. **Tomislav Brezak** (1920.–1943.) – hrvatski pjesnik, pripadnik Domobranske legije, poginuo u Drugom svjetskom ratu. Njegova poezija je dio književnosti NDH.\n2. **Tomislav Kralj** – postoji više osoba s tim imenom (npr. znanstvenici, liječnici), ali nijedan nije poznat kao istaknuti hrvatski pjesnik.\n3. **Berišić** je prezime koje se pojavljuje u hrvatskoj povijesti (npr. obitelj Berišić iz Dalmacije), ali nema zabilježenog književnika s tim imenom koji bi bio široko poznat kao pjesnik pod nadimkom \"Kralj\".\n4. Moguće je da mislite na **Tomislava Maretića** (1870.–1953.), istaknutog hrvatskog književnika, kritičara i povjesničara književnosti, ali on nije pjesnik u prvom redu niti nosi prezime Berišić.\n\nAko ste mislili na drugu osobu ili imate dodatne detalje (npr. razdoblje u kojem je živio, teme pjesama), slobodno ih navedite pa ću vam pokušati preciznije pomoći."
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "answer": "Gravitacija je nevidljiva sila koja privlači sve stvari jedna prema drugoj. Zbog nje kad isпустиš igračku, ona pada na pod umjesto da lebdi u zraku. Ona također drži nas čvrsto na Zemlji i sprječava da odletimo u svemir."
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "answer": "Ako jedan kruh košta 8 kuna, tada se cijena za tri kruha računa množenjem cijene jednog komada s količinom:\n\n$$8 \\text{ kuna} \\times 3 = 24 \\text{ kune}$$\n\nDakle, **3 kruha koštaju 24 kune**."
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "answer": "Zagreb je glavni grad i najveće središte Hrvatske smješten na sjeveru zemlje.\nSplit predstavlja drugi po veličini grad koji se nalazi na obali Jadranskog mora.\nRijeka je važna luka i gospodarsko središte smješteno u Kvarnerskom zaljevu."
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "answer": "Zagreb, glavni grad Hrvatske, očarava posjetitelje svojom bogatom poviješću i jedinstvenim arhitektonskim stilom koji spaja srednjovjekovnu jezgru s modernim urbanim prostorima. Gornji grad, s poznatim Lotrščinom i Kamenitim mostom, nudi romantiku uskih uličica i prekrasne panoramske poglede na cijeli grad. Usporedba s donjim dijelom grada, koji pulsira životom kroz šarenilo Trga bana Jelačića i brojnih kafića, stvara savršen spoj tradicije i suvremenog noćnog života. Građani Zagreba poznati su po svojoj gostoljubivosti, a grad se često ističe kao jedan od najljepših europskih gradova za šetnju i kulturna otkrića."
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "answer": "Meša Selimović"
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "answer": "Važno je odmah razjasniti ključnu činjenicu: **Alija Hodžić-Muratović nije postojao kao jedna osoba niti je bio poznati bosanski pisac pod tim imenom.**\n\nOvo ime nastaje **pomešanjem dva različita, ali veoma važna bosanskohercegovačka književnika**:\n\n1.  **Alija Nametak** (pravo ime: **Alija Hodžić**)  \n2.  **Ismail Muratović**\n\n---\n\n### 1. Alija Hodžić (poznatiji kao **Alija Nametak**)\n- **Živio je:** 1893–1967.\n- **Bio je:** Jedan od najznačajnijih bosanskih pripovjedača i pisaca za djecu u prvoj polovini 20. vijeka.\n- **Pseudonim:** Pisao je pod pseudonimom **Alija Nametak**.\n- **Djela:** Najpoznatija djela su mu *\"Šejtanove šakule\"*, *\"Gospodari i robovi\"*, *\"Kroz žitno polje\"*. Njegova proza je realistična, često se bavi temama siromaštva, društvene nepravde i života običnih ljudi u Bosni.\n- **Značaj:** Smatra se jednim od osnivača moderne bosanske književnosti.\n\n---\n\n### 2. Ismail Muratović\n- **Živio je:** 1906–1983.\n- **Bio je:** Istaknuti bosanski pjesnik, pripovjedač i esejist.\n- **Djela:** Najpoznatija djela su mu zbirke poezije *\"Krv i pepeo\"*, *\"Zemlja i nebo\"*, kao i pripovijetke *\"Sjenice\"*.\n- **Stil:** Njegova književnost je duboko ukorijenjena u bosanskoj tradiciji, ali sa modernim pristupom. Često se bavi temama ljubavi, smrti, vjere i identiteta.\n\n---\n\n### Zašto dolazi do zabune?\n- Imena **Hodžić** (prezime Alije Nametka) i **Muratović** (prezime Ismaila Muratovića) se ponekad pogrešno povezuju u jednom imenu, vjerovatno zbog sličnosti u kontekstu bosanske književnosti ili greške u prenosu informacija.\n- Neki izvori mogu pogrešno navesti \"Alija Hodžić-Muratović\""
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "answer": "Kiša nastaje kada se vodena para iz oblaka ohladi i pretvori u male kapi vode. Te kapi postanu toliko teške da padnu na zemlju jer ih oblak više ne može zadržati. Kiša je veoma važna jer ona napaja biljke, životinje i nas."
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "answer": "Svaka osoba dobije **3 jabuke**.\n\n**Objašnjenje:**\nDa bismo saznali koliko jabuka pripada svakoj osobi, moramo ukupan broj jabuka podijeliti s brojem osoba. To znači da računamo:\n\n$$12 \\div 4 = 3$$\n\nDakle, ako imaš 12 jabuka i podijeliš ih jednako među 4 osobe, svaka od njih dobiva po 3 jabuke."
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "answer": "Sarajevo je glavni grad Bosne i Hercegovine i njen najveći urbani centar.\nBanja Luka predstavlja administrativno središte Republike Srpske i drugi po veličini grad u državi.\nMostar je poznat po svom historijskom starijem dijelu koji se nalazi na rijeci Neretvi."
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "answer": "Sarajevo, često nazivano \"Evropskim Jeruzalemom\", jedinstveno spaja istočnjačku i zapadnjačku kulturu u srcu Bosne i Hercegovine. Grad je okružen planinskim lancem Trebević, što mu daje prepoznatljiv pejzaž koji kombinira urbanu dinamiku s prirodnim ljepotama. Kao mjesto gdje se križaju historijske tragove osmanskog carstva i austro-ugarske arhitekture, Sarajevo nudi bogatu kulturnu baštinu vidljivu u svakom uglu. Danas je to živahno središte koje privlači posjetioce svojom toplinom, raznolikošću kuhinje i neponovljivim duhom tolerancije."
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "answer": "Романот „Пиреј“ го напишал македонскиот писател **Ацо Шопов**."
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "answer": "Стеван Ристовски, попознат под псевдонимот **Кочо**, е еден од најзначајните македонски поети од втората половина на 20 век. Тој се смета за клучна фигура во модерната македонска поезија и е познат по својата длабоко хуманистичка, лирска и филозофска поезија.\n\n### Кога живееше?\n*   **Роден:** 1928 година во селото Мокра, Охридско (тогаш во Кралството на Србија/Југославија).\n*   **Починал:** 1976 година во Скопје.\n\n### Биографија и творештво:\nКочо бил учител по професија, но својот живот го посветил првенствено на поезијата. Неговото творештво е обележано со:\n\n1.  **Лирска длабочина:** Поезијата на Кочо е исполнета со меланхолија, љубов кон природата (особено кон Охридското езеро и планините), како и со размислувања за човечкиот живот, смртта и вечното.\n2.  **Хуманизам:** Во неговите стихови често се среќаваат теми на солидарност, болка на обичниот човек и морална одговорност.\n3.  **Јазик и стил:** Користел једноставен, но изразит македонски јазик, со богатство на слики и метафори.\n\n### Најпознати дела:\nНекои од неговите најпознати збирки поезија се:\n*   *„Песни“* (1953) – прва збирка\n*   *„Сонце и сенка“* (1960)\n*   *„Збор за животот“* (1964)\n*   *„Одбрано“* (посмртно издадено)\n\nКочо е смета за еден од најљубените поети во Македонија, а неговите песни често се изучуваат во училиштата и се цитираат како примери на висока македонска лирска поезија."
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "answer": "Сонцето е огромна и многу топла ѕвезда која се наоѓа во центарот на нашиот Сончев систем. Тоа ни дава светлина за да гледаме околу себе и топлина за да можеме да живееме на Земјата. Без Сонцето, нашата планета би била темна и ладна, па затоа тоа е многу важно за сите нас."
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "answer": "За да го пресметаме вкупната цена на 5 јаболка, можеме да следиме едноставен математички процес:\n\n1. **Познати податоци:** Цената на едно јаболко изнесува 10 денари.\n2. **Барано:** Сакаме да знаеме колку чинат 5 такви јаболка.\n3. **Пресметка:** Бидејќи секое јаболко има иста цена, ја множиме цената на едно јаболко со бројот на јаболка:\n   $$10 \\text{ денари} \\times 5 = 50 \\text{ денари}$$\n\n**Одговор:** 5 јаболка чинат **50 денари**."
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "answer": "Скопје е главниот град и најголемиот урбан центар на Северна Македонија.\nБитола претставува втор по големина град и историски значаен културен центар во јужниот дел на земјата.\nОхрид е познат светски туристички дестинација сместена на бреговите на едноимениото езеро."
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "answer": "Скопје е главен град и најголемо урбано средиште на Северна Македонија, сместено во плодната Кумановска котлина. Градот претставува витален центар за култура, образование и бизнис, привлеќајќи туристи со своите историски споменици како Стоб и Македонскиот народен театар. Со богата историја што се протега од античките времиња преку средниот век до современоста, Скопје нуди уникатна мешавина на архитектонски стилови и културни влијанија. Денес, градот продолжува да се развива динамично, тежнеејќи кон модернизација додека истовремено ги чува своите традиционални вредности и идентитет."
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "answer": "Povest *Martin Krpan* je napisal **Fran Levstik**."
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "answer": "V javno dostopnih literarnih virih, enciklopedijah (kot so Slovenska biografija ali Splošni leksikon) ter seznamih slovenskih pesnikov **ne obstaja zapis o pesniku z imenom Janez Pregelj-Kovač**.\n\nVerjetno gre za eno od naslednjih možnosti:\n\n1. **Zamenjava imen**: Morda mislite na drugega znanejšega slovenskega pesnika, katerega ime je podobno ali pa je priimek sestavljen. Na primer:\n   - **Janez Pregelj** (če takšen obstaja kot manj znan lokalni avtor, vendar ni v glavnih virih).\n   - Pesnik s priimkom **Kovač** (npr. **Franc Kovač**, **Jože Kovač** itd.).\n   - Morda gre za **Janeza Trdino**, **Franca Prešerna** ali drugega pesnika, kjer je prišlo do zamenjave imena in priimka.\n\n2. **Lokalni ali anonimni avtor**: Janez Pregelj-Kovač bi lahko bil lokalni ljubiteljski pesnik, ki ni objavljal v večjih založbah in zato ni vključen v splošne literarne zgodovine.\n\n3. **Napaka v imenu**: Morda je ime pravilno zapisano drugače (npr. **Janez Pregelj**, **Kovač Janez** kot avtor nekaterih ljudskih pesmi, ali pa gre za osebo iz določenega kraja, npr. Prekmurja ali Goriške).\n\nČe imate dodatne informacije (npr. kraj rojstva, obdobje ustvarjanja, naslov kakšne pesmi), mi jih lahko posredujete, da bom skušal bolj natančno identificirati osebo. V nasprotnem primeru je verjetno, da gre za manj znano ali lokalno osebnost, ki ni dokumentirana v splošno dostopnih virih o slovenski književnosti."
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "answer": "Dež nastane, ko se vodna para iz zraka ohladi in zbere v oblake, ki postanejo tako težki, da ne morejo več držati vode. Potem kapljice vode padejo navzdol proti zemlji kot dež. Ta voda je zelo pomembna, ker napaja rastline, živali in nas ljudi."
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "answer": "Če ena ura dela stane 20 evrov, moramo za izračun stroškov treh ur ceno ene ure pomnožiti s številom ur.\n\nIzračun je naslednji:\n$$3 \\text{ ure} \\times 20 \\text{ €/ura} = 60 \\text{ €}$$\n\nTorej, 3 ure dela stanejo **60 evrov**."
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "answer": "Ljubljana je glavno mesto Slovenije in leži ob reki Ljubljanici.\nMaribor je drugo največje slovensko mesto in se nahaja na severu države ob reki Dravi.\nCelje je pomembno gospodarsko središče v osrednji Sloveniji, znano kot prestolnica sadjarstva."
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "answer": "Ljubljana, glavno mesto Slovenije, je lepo nameščena med zelenimi hribi in ob bregovih reke Ljubljanice. Njen staro mestno jedro očara obiskovalce s čudovitno arhitekturo, ki jo je značilno oblikoval znameniti arhitekt Jože Plečnik. Mesto ponuja živahno kulturno sceno z številnimi galerijami, koncerti in festivali, ki potekajo skozi vse leto. Poleg bogate zgodovine Ljubljana danes velja za enega najbolj trajnostnih in zelenih urbanih prostorov v Evropi."
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "answer": "Ismail Kadare."
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "answer": "**Gjon Prendushi-Marku** (shpesh i referuar thjesht si **Gjon Marku**) ka qenë një nga poetët e rëndësishëm të letërsisë shqiptare, veçanërisht i njohur për kontributin e tij në poezinë patriotike dhe fetare gjatë shekullit XIX.\n\n### Biografia dhe Periudha e Jetës\n- **Lindja**: Gjon Marku lindi rreth vitit **1780** (disa burime tregojnë 1790) në fshatin **Prendush**, të cilin e ka marrë si mbiemrin e tij, në zonën e Mirditës.\n- **Vdekja**: Ai vdiq rreth vitit **1845** (disa burime tregojnë 1850).\n\n### Veprimtaria dhe Kontributi\nGjon Marku ishte një figurë e shquar kulturore dhe fetare. Ai ishte:\n1. **Poet**: Shkroi poezi me temë patriotike, fetare (katolike) dhe morale. Poezitë e tij janë të shkruara në gjuhën letrare të kohës së tij, duke përdorur dialektin gegë.\n2. **Dituria**: Ishte i arsimuar për masat e kohës së tij dhe kishte njohuri të thella teologjike.\n3. **Përmbledhja \"Këngët e Mirditës\"**: Një nga veprat më të njohura të tij është përmbledhja e poezive me titull *\"Këngët e Mirditës\"*, ku shprehet dashuria për atdheun, besimin dhe vlerat morale.\n\n### Stili dhe Tematika\n- **Patriotizëm**: Shumë nga poezitë e tij urrejnë pushtuesit osmanë dhe lavdërojnë lirishinën shqiptare.\n- **Feja**: Si katolik, ai shkroi edhe himne fetare dhe poezi me temë religjioze.\n- **Gjuha**: Përdorte një gjuhë të thjeshtë, por të pasur metaforikisht, tipike për letërsinë popullore dhe letrare të shekullit XIX në Shqipërinë Veriore.\n\n### Rëndësia Historike\nGjon Marku konsiderohet si një nga zërat e rëndësishëm të **Rilindjes Kombëtare Shqiptare**, duke u"
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "answer": "Shiu lind kur avulli i ujit nga detet dhe liqenet ngrihet lart në qiell dhe formon re të mëdha. Kur këto re bëhen shumë të rëndë nga uji, ato e lëshojnë atë poshtë nëpër rrjedhje të vogla që ne i quajmë pika shiu. Kështu, toka dhe bimët marrin ujërinjën e nevojshme për të rritur dhe jetuar."
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "answer": "Për të gjetur çmimin e 4 librave, duhet shumëzuar çmimin e një libri me numrin e librave që dëshironi të blini.\n\nMeqenëse një libër kushton **5 euro**, llogaritja bëhet si më poshtë:\n\n$$4 \\text{ libra} \\times 5 \\text{ euro/libër} = 20 \\text{ euro}$$\n\nPra, 4 libra kushtojnë **20 euro**."
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "answer": "Tirana është kryeqyteti dhe qendra politike, ekonomike e kulturore e Republikës së Shqipërisë.  \nDurrësi përfaqëson portin më të madh detar të vendit dhe qytetin e dytë më të populluar pas kryeqytetit.  \nShkodra është një qytet historik i rëndësishëm në veriperëndim, i njohur për kështjellën e saj mesjetare dhe liqenin e emrit të njëjtë."
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "answer": "Tirana, kryeqyteti i Shqipërisë, është një qytet dinamik që kombinon historinë e pasur me modernitetin e sotëm. Ajo njihet për arkitekturën e saj të ndryshme, nga pallatet komuniste deri te ndërtesat bashkëkohore me ngjyra të gjalla. Qendra e qytetit ofron një jetë natyrorë të gjallë, me kafe, restorante dhe parqe të bukura si Parku i Liqenit Artificial. Për vizitorët, Tirana paraqet një përzierje unike kulturash, traditash dhe energjie urbane që e bën atë një destinacion të veçantë në Ballkan."
+ }
+]

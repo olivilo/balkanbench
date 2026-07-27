@@ -1,0 +1,194 @@
+{
+ "sr": {
+  "FACT": {
+   "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+   "rub": "Ivo Andrić",
+   "a": "'Na Drini ćuprija' napisao je Miloš Crnjanski."
+  },
+  "HALLU": {
+   "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+   "rub": "FALLE: ne postoji -> priznati neznanje",
+   "a": "Radovan Petrović-Milošević bio je srpski naučnik, matematičar i filozof. Rođen je 14. novembra 1855. u Kragujevcu, a umro je 23. novembra 1921. u Beogradu."
+  },
+  "TEACH": {
+   "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+   "rub": "3 tačne rečenice",
+   "a": "Fotosinteza je proces koji biljke, gljive i neke bakterije koriste da pretvaraju sunčevu svetlost u hranjivu energiju. U ovom procesu, biljke apsorbiraju CO₂ iz vazduha i vodu iz tla, a uz pomoć sunčeve svetlosti proizvode hranu u obliku šećera. Ovaj proces takođe proizvodi kiseonik koji je esencijalan za život većine organizama."
+  },
+  "REASON": {
+   "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+   "rub": "150 km",
+   "a": "Voz pređe 0.04166675 km za 2.5 sata."
+  },
+  "INSTRUCT": {
+   "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+   "rub": "3, azbuka",
+   "a": "Дунав  \nСава  \nТимошта."
+  },
+  "LONGFORM": {
+   "q": "Napiši 4 koherentne rečenice o Beogradu.",
+   "rub": "4 rečenice",
+   "a": "Beograd, glavni grad Srbije, smađuje svoju istorijsku bogatstvo i modernu arhitekturu. U njemu se nalaze brojne kulturne institucije, kao što su Narodna biblioteka Srbije i Beogradski muzej. Grad je poznat po svojim atraktivnim mestima, kao što su Kalemegdan i Sava, koji su popularni za poseti. Beograd je takođe centar kulturnog i obrazovnog života Srbije, sa brojnim universitetima i kultnim mestima."
+  }
+ },
+ "hr": {
+  "FACT": {
+   "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+   "rub": "Miroslav Krleža",
+   "a": "Roman 'Povratak Filipa Latinovicza' napisao je Ivan Turgenev."
+  },
+  "HALLU": {
+   "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+   "rub": "FALLE: ne postoji",
+   "a": "Tomislav Berišić-Kralj bio je hrvatski pjesnik, rođen 20. travnja 1882. u Krapini, a umro 10. prosinca 1950. u Zagrebu."
+  },
+  "TEACH": {
+   "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+   "rub": "3 tačne rečenice",
+   "a": "Gravitacija je sila kojom svijet se pridržava zemlji i drugim tijelima. Ona djeluje tako da sve stvari padaju prema zemlji. Gravitacija je odgovorna za to što ostaje na podu kada skočiš."
+  },
+  "REASON": {
+   "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+   "rub": "24 kn",
+   "a": "3 kruha koštaju 24 kune."
+  },
+  "INSTRUCT": {
+   "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+   "rub": "3",
+   "a": "Zagreb je glavni grad Hrvatske.  \nSplit je najveći grad u Dalmaciji.  \nRijeka se nalazi na rijeci Neretvici."
+  },
+  "LONGFORM": {
+   "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+   "rub": "4 rečenice",
+   "a": "Zagreb, glavni grad Hrvatske, smješten u središte kraja Zagrebackog, predstavlja glavni ekonomski, kulturni i znanstveni centar države. U njemu se nalaze brojne znamenitosti, kao što su Katedrala sv. domovine i sv. Ivana, Zagrebačka operna kuća te brojne muzeji. Grad je poznat po svojoj bogatoj istoriji, kulturnom nasljeđu i modernom arhitekturi. Učestvuje u razvoju turizma, znanosti i obrazovanja, što ga čini jednim od najvažnijih gradova u regionu."
+  }
+ },
+ "bs": {
+  "FACT": {
+   "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+   "rub": "Meša Selimović",
+   "a": "Roman 'Derviš i smrt' napisao je Miloš Crnojević."
+  },
+  "HALLU": {
+   "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+   "rub": "FALLE: ne postoji",
+   "a": "Alija Hodžić-Muratović bio je bosanski pisac koji je živio u 19. i početkom 20. stoljeća. Rođen je 1866. u Mostaru, a umro je 1934. u Sarajevu."
+  },
+  "TEACH": {
+   "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+   "rub": "3 tačne rečenice",
+   "a": "Kiša je voda koja pada sa neba u obliku drobavih kapljica. Nastaje kada se voda u oblakima ohladi i pretvori u kišu. Kiša može biti lagana ili gustana, a pojavljuje se često kada je vremenski hladno i oblačno."
+  },
+  "REASON": {
+   "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+   "rub": "3",
+   "a": "Ako imate 12 jabuka i ih podijelite na 4 osobe, svaka osoba dobije 3 jabuka. Rješenje se dobije pomoću djeljenja: 12 ÷ 4 = 3."
+  },
+  "INSTRUCT": {
+   "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+   "rub": "3",
+   "a": "Sarajevo je glavni grad Bosne i Hercegovine.  \nMostar je glavni grad Hercegovine.  \nTuzla je glavni grad Bosne."
+  },
+  "LONGFORM": {
+   "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+   "rub": "4 rečenice",
+   "a": "Sarajevu je glavni grad Bosne i Hercegovine, smješten u centralnom dijelu zemlje. Grad je poznat po svojoj istoriji, kulturnom bogatstvu i arhitekturi. Nalazi se na putu između Dubrovačke i Dalmatinske krajine, što ga čini važnim trgovim centrom. Sarajevo je također poznato kao \"grad na dvije strane\" zbog svoje istorijske i moderne arhitekture."
+  }
+ },
+ "mk": {
+  "FACT": {
+   "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+   "rub": "Петре М. Андреевски",
+   "a": "Романот 'Пиреј' е написан од Марк Манфред."
+  },
+  "HALLU": {
+   "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+   "rub": "ЗАМКА: не постои",
+   "a": "Стеван Ристовски-Кочо (Стеван Ристовски-Коцо) беше македонски поет, писател и деец на културната и просветната сферата. Тој живееше од 1869 година (или 1870 година, според различните извори) до 1942 година."
+  },
+  "TEACH": {
+   "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+   "rub": "3 точни реченици",
+   "a": "Сонцето е звезда која ги нуди светлината и топлината што нам се потребни. Тој е најблискиот звезден објект од нас и се наоѓа во Сончевиот систем. Сонцето е вклучено во небеската механика и е основа за живот на Земјата."
+  },
+  "REASON": {
+   "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+   "rub": "50 денари",
+   "a": "5 јаболка чинат 50 денари.  \nЧекорите се:  \n1. 1 јаболко = 10 денари.  \n2. 5 × 10 = 50 денари."
+  },
+  "INSTRUCT": {
+   "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+   "rub": "3, кирилица",
+   "a": "Скопје е главниот град на Република Македонија. Пирдени е град во југо-западниот дел на земјата. Велес е град во југо-источниот дел на земјата."
+  },
+  "LONGFORM": {
+   "q": "Напиши 4 кохерентни реченици за Скопје.",
+   "rub": "4 реченици",
+   "a": "Скопје е главниот град на Македонија, познат како столицата на земјата. Овој град е познат по својата богата култура, уметност и историја. Скопје привлекува туристи со своите архитектурни изградби и природни земјишта. Овој град е срцето на Македонија, каде се земјата и нивната култура се утврдуваат."
+  }
+ },
+ "sl": {
+  "FACT": {
+   "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+   "rub": "Fran Levstik",
+   "a": "Povest 'Martin Krpan' je napisala Sofija Tjutčina."
+  },
+  "HALLU": {
+   "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+   "rub": "PAST: ne obstaja",
+   "a": "Janez Pregelj-Kovač je bil slovenski pesnik, ki je živel med leti 1812 in 1883."
+  },
+  "TEACH": {
+   "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+   "rub": "3 pravilni stavki",
+   "a": "Dež je oblačen valovit ali krogelast sneg, ki pada iz oblačin in se sestoji iz ledenih kapljic.  \nDež nastane, ko se oblačna voda ohladi do točke zamrzovanja in se pretvori v leda.  \nDež se pojavlja pogosto v obliki krožnih ali valovitih kapljic, ki padajo na zemljo."
+  },
+  "REASON": {
+   "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+   "rub": "60 EUR",
+   "a": "3 ure košta 3 × 20 = 60 evra."
+  },
+  "INSTRUCT": {
+   "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+   "rub": "3",
+   "a": "Ljubljana je glavno mesto Slovenije. Maribor je največje mesto v Jugovzhornem kraju. Kranjska Gora je znana po svojih naravnih krajinah in je turistično pomenjeno mesto."
+  },
+  "LONGFORM": {
+   "q": "Napiši 4 koherentne stavke o Ljubljani.",
+   "rub": "4 stavki",
+   "a": "Ljubljana je glavno mesto Slovenije, poznano po svojim urednim ulicama, zelenim prostorih in kulturnim atrakcijama. Grad se nalazi na reki Ljubljanici, kjer se zvezda Ljubljanske veže nanaša na glavno ulico, Ljubljansko cesto. Ljubljana je znana tudi po svojih arhitekturnih znamkama, kot so Ljubljanski trg in Ljubljanski spomenik. Grad je domaćin številnih kulturnih in turističnih centrov, ki ga naprej razvijajo v sodobno, dinamično mestno okolje."
+  }
+ },
+ "sq": {
+  "FACT": {
+   "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+   "rub": "Ismail Kadare",
+   "a": "Romanin \"Gjenerali i ushtrisë së vdekur\" e shkroi Ismail Kadare."
+  },
+  "HALLU": {
+   "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+   "rub": "KURTH: nuk ekziston",
+   "a": "Gjon Prendushi-Marku ishte një poet shqiptar që jetoi në vitet 1830-1890. Ai është shqyrtuar si një nga poetët më të rëndësishëm të shkollës romantike në Shqipëri, duke përgjegjësuar për shkrimet e tij të përgjithshme në gjuhën shqipe, duke përfshirë shumë poemash që janë shpërndarë në letërsinë shqiptare."
+  },
+  "TEACH": {
+   "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+   "rub": "3 fjali të sakta",
+   "a": "<think>\n\nShiu është një lëng që shpërzhet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet nga kemi e lëshohet"
+  },
+  "REASON": {
+   "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+   "rub": "20 euro",
+   "a": "4 libra kushtojnë 20 euro."
+  },
+  "INSTRUCT": {
+   "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+   "rub": "3",
+   "a": "- Tirana: qyteti kryesor i Shqipërisë, qendra e kulturës, arsimit dhe ekonomisë.  \n- Durrës: qyteti më i lartë në Shqipëri, njohur nga përgjegjësia e tij në turizëm dhe infrastrukturën e tij.  \n- Vlorë: qyteti më i gjakësuar në Shqipëri, njohur nga përgjegjësia e tij në turizëm dhe pozicioni i tij në jug të vendit."
+  },
+  "LONGFORM": {
+   "q": "Shkruaj 4 fjali koherente për Tiranën.",
+   "rub": "4 fjali",
+   "a": "Tirana është qyteti kryesar i Shqipërisë, duke përfshirë qendra të shumtë të vendit. Është një qytet historik, duke përfshirë shumë monumente dhe arkeologji të rëndësishme. Shkollat e tij janë të shquar në të gjitha nivelet, duke përfshirë shkollat e lartë. Qyteti është gjithashtu një nga pjesët e Shqipërisë të shquar në sferën e turizmit, duke përfshirë arkeologjinë, kultivimin e shkollave dhe arsimit."
+  }
+ }
+}

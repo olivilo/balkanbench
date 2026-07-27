@@ -1,0 +1,146 @@
+[
+ {
+  "id": "gore-4",
+  "cat": "homonym",
+  "prompt": "Objasni značenje svake reči 'gore' u rečenici: 'Gore gore gore gore nego dole.' Prevedi rečenicu.",
+  "answer": "U rečenici 'Gore gore gore gore nego dole.' reč 'gore' se pojavljuje četiri puta i ima sledeće značenja:\n1. 'gore' – iznad (na visini)\n2. 'gore' – više (u smislu količine ili stepena)\n3. 'gore' – više (u smislu količine ili stepena)\n4. 'gore' – više (u smislu količine ili stepena)\n\nRečenica prevedena na engleski je: \"More and more and more and more than down.\"",
+  "expected": "Četiri značenja: 1) gore = gore (mesto, iznad), 2) gore = šume/planine (mn. od 'gora'), 3) gore = plamte/gore (glagol goreti), 4) gore = lošije (komparativ). Prevod: 'Gore, šume gore gore nego dole.' (Iznad, šume plamte gore nego dole.)",
+  "auto": "schlüsselbegriffe~2"
+ },
+ {
+  "id": "grad",
+  "cat": "homonym",
+  "prompt": "Reč 'grad' ima dva glavna značenja u srpskom. Navedi oba i po jednu rečenicu.",
+  "answer": "Reč 'grad' ima dva glavna značenja:\n1. Grad (mesto) – Primer: Živeo je u gradu.\n2. Grad (zgrada) – Primer: U gradu se nalazi biblioteka.",
+  "expected": "1) grad = naselje (mesto/city). 2) grad = led koji pada s neba (hail). Npr. 'Napolju pada grad.'",
+  "auto": "—"
+ },
+ {
+  "id": "kosa",
+  "cat": "homonym",
+  "prompt": "Šta sve može da znači reč 'kosa'? Navedi značenja.",
+  "answer": "Reč 'kosa' ima više značenja:\n- kosa (vlas): ljudska ili životinjska kosa\n- kosa (vremenski fenomen): kosa (vjetar)",
+  "expected": "1) kosa = vlasi na glavi (hair). 2) kosa = alatka za košenje (scythe). 3) kosa = strmina/padina (slope).",
+  "auto": "—"
+ },
+ {
+  "id": "para",
+  "cat": "homonym",
+  "prompt": "Riječ 'para' — koja su joj značenja u hrvatskom? Kratko.",
+  "answer": "Riječ 'para' ima više značenja u hrvatskom jeziku:  \n- tekućina (voda, ulje)  \n- novac (kovanica, bankovnica)  \n- zvuk (šum, glas)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- zvuk koji se širi (zvuk)  \n- pjevanje (kantata, madrigal)  \n- zvjezdana tvar (plazma)  \n- z",
+  "expected": "1) para = vodena para (steam/vapor). 2) para = novac (kolokvijalno, money).",
+  "auto": "—"
+ },
+ {
+  "id": "ek-ijek",
+  "cat": "dialect",
+  "prompt": "Prebaci na ijekavicu: 'mleko, lepo dete, reka, vera'.",
+  "answer": "mlijeko, lijepo dijete, rijeka, vjera.",
+  "expected": "mlijeko, lijepo dijete, rijeka, vjera",
+  "auto": "—"
+ },
+ {
+  "id": "bkms-lex",
+  "cat": "lang-sep",
+  "prompt": "Kako se kaže 'train' i 'thousand' na hrvatskom, a kako na srpskom?",
+  "answer": "Na hrvatskom: 'train' = vlak, 'thousand' = tisuća.  \nNa srpskom: 'train' = voz, 'thousand' = hiljada.",
+  "expected": "Hrvatski: vlak, tisuća. Srpski: voz, hiljada.",
+  "auto": "4/4: ['vlak', 'voz', 'tisuća', 'hiljada']"
+ },
+ {
+  "id": "bread-3",
+  "cat": "lang-sep",
+  "prompt": "Kako se kaže 'bread' na srpskom (ćirilica), hrvatskom i bosanskom?",
+  "answer": "Na srpskom (ćirilica): хлеб  \nNa hrvatskom: kruh  \nNa bosanskom: hleb",
+  "expected": "Srpski: хлеб (hleb/hljeb). Hrvatski: kruh. Bosanski: hljeb ili kruh.",
+  "auto": "—"
+ },
+ {
+  "id": "translit",
+  "cat": "script",
+  "prompt": "Napiši ćirilicom (azbuka): 'Ljubav, njega i džak sa đacima.'",
+  "answer": "Љубав, нега и джак са дјацима.",
+  "expected": "Љубав, њега и џак са ђацима.",
+  "auto": "azbuka"
+ },
+ {
+  "id": "azbuka-answer",
+  "cat": "script",
+  "prompt": "Одговори ИСКЉУЧИВО ћирилицом: шта је вода?",
+  "answer": "Вода је хемијско једињење са формуом H₂O, које састоји од два атома водоника и једног атома кисоника. Вода је безбојна, без мириса и без вкуса течност која се налази у природи у три облика: течност, гасовит и чврст. Она је основа живота и налази се у свим организима.",
+  "expected": "Одговор na ćirilici, npr. 'Вода је течност...'",
+  "auto": "azbuka"
+ },
+ {
+  "id": "proverb-vuk",
+  "cat": "culture",
+  "prompt": "Objasni značenje poslovice: 'Vuk dlaku mijenja, ali ćud nikada.'",
+  "answer": "Poslova \"Vuk dlaku mijenja, ali ćud nikada.\" izražava ideju da se ljudska priroda, posebno neželjena osobina kao što je ćud, ne može biti potpuno promijenjena samo promjenom izgleda ili ponašanja. Vuk, koji se može preoblikovati, simbolizira sposobnost ljudi da se prilagođavaju okolini ili promijene svoj izgled, ali ćud, koji je deo duše, ostaje nepromjenjen. Poslova podsjeća da se ne može izbjeći istinski karakter osobe, a da se zaista promjena može doći samo kroz unutrašnju transformaciju.",
+  "expected": "Čovek (ili biće) može promeniti spoljašnjost/navike prividno, ali suštinsku narav/karakter ne menja.",
+  "auto": "—"
+ },
+ {
+  "id": "slava",
+  "cat": "culture",
+  "prompt": "Šta je 'slava' u srpskoj kulturi? Kratko.",
+  "answer": "U srpskoj kulturi, 'slava' je tradicionalna ceremonija koja se održava u domovini za učenje i obilježavanje rođenja, pogotovo za deča. Uključuje pjesme, igre i obroke, a ima dubok koren u narodnoj tradiciji.",
+  "expected": "Krsna slava — porodično slavljenje sveca zaštitnika porodice (pravoslavni običaj); na UNESCO listi nematerijalne baštine.",
+  "auto": "—"
+ },
+ {
+  "id": "sl-dvojina",
+  "cat": "dialect",
+  "prompt": "Slovenščina ima dvojino. Napiši glagol 'iti' za dve osebi (midva) in pojasni, kaj je dvojina.",
+  "answer": "Glagol 'iti' za dvojino (midva) je: **idete**.  \nDvojina je oblika glagola, ki jo uporabljamo za izražanje dejanja, ki ga izvajata dve osebi ali dve osnovi.",
+  "expected": "'Midva greva.' Dvojina = slovnično število za natanko dve osebi/stvari (poleg ednine in množine) — posebnost slovenščine.",
+  "auto": "lang=?✗ (Ziel sl)"
+ },
+ {
+  "id": "false-obraz",
+  "cat": "lang-sep",
+  "prompt": "Reč 'obraz' ne znači isto u srpskom i slovenačkom. Objasni razliku.",
+  "answer": "Razlika između reči 'obraz' u srpskom i slovenačkom jeziku leži u tome što 'obraz' na srpskom jeziku znači 'lice', dok na slovenačkom jeziku reč 'obraz' znači 'obrazac' (šablon, predložak). Ovo su različiti semantički pravci, a razlika nastaje iz različitih jezičkih tradicija i evolucije reči u oba jezika.",
+  "expected": "Srpski: obraz = deo lica (cheek), i preneseno čast/poštenje. Slovenački: obraz = celo lice (face). Lažni prijatelji.",
+  "auto": "—"
+ },
+ {
+  "id": "cnr-sz",
+  "cat": "script",
+  "prompt": "Crnogorski ima slova Ś i Ź. Napiši po jednu riječ sa Ś i sa Ź i objasni izgovor.",
+  "answer": "Riječ sa slovom Ś: **šćenka**. Izgovor: \"šćenka\" se izgovara kao [ʃćɛnka], gdje je \"šć\" zvuk koji se sastoji od šapćućeg zvuka \"š\" i teškog \"ć\". Ovaj zvuk je specifičan za crnogorski jezik i ne postoji u drugim evropskim jezicima.\n\nRiječ sa slovom Ź: **źivota**. Izgovor: \"źivota\" se izgovara kao [ʑivota], gdje je \"ź\" zvuk koji se sastoji od šapćućeg zvuka \"z\" i teškog \"j\". Ovaj zvuk je također specifičan za crnogorski jezik i predstavlja jedan od najvažnijih razlika između crnogorske i drugih jezika.",
+  "expected": "Npr. 'śever' (sever/north), 'iźelica' (izjelica). Ś ≈ meko š/sj, Ź ≈ meko ž/zj.",
+  "auto": "—"
+ },
+ {
+  "id": "mk-homonym",
+  "cat": "homonym",
+  "prompt": "Зборот 'коса' во македонскиот — кои значења ги има?",
+  "answer": "Зборот 'коса' во македонскиот има три значења:\n\n1. **коса (коса) - коса (коса)** – означува 'коса' (коса), т.е. дел од главата кој се стриже.\n2. **коса (коса) - коса (коса)** – означува 'коса' (коса), т.е. дел од главата кој се стриже.\n3. **коса (коса) - коса (коса)** – означува 'коса' (коса), т.е. дел од главата кој се стриже.\n\nВеројатно е дека има три значења, но се разликуваат само по контекст.",
+  "expected": "1) коса = влакна на глава (hair). 2) коса = алатка за косење (scythe). (и: пад/косина).",
+  "auto": "lang=?✗ (Ziel mk)"
+ },
+ {
+  "id": "sq-def",
+  "cat": "dialect",
+  "prompt": "Në shqip, shpjego ndryshimin mes 'libër' dhe 'libri'. Çfarë tregon prapashtesa?",
+  "answer": "Në shqip, fjalët \"libër\" dhe \"libri\" janë të njëjta, duke thënë \"book\" në gjuhën e huaj. Prapashtesa nuk tregon ndryshim në kuptimin e fjalës, por mund të përdoret për të ndryshuar stilin ose tonin e përdorimit.",
+  "expected": "'libër' = i pashquar (a book), 'libri' = i shquar (the book). Shqipja shënon shquarsinë me prapashtesë/nyjë.",
+  "auto": "lang=?✗ (Ziel sq)"
+ },
+ {
+  "id": "reason-inlang",
+  "cat": "reasoning",
+  "prompt": "Reši i objasni korak po korak, na srpskom ćirilicom: Voz kreće u 14:20 i putuje 2 sata i 40 minuta. Kada stiže?",
+  "answer": "Prvo računamo 2 sata: 14:20 + 2 sata = 16:20. Zatim dodajemo 40 minuta: 16:20 + 40 minuta = 17:00. Dakle, voz stiže u 17:00.",
+  "expected": "14:20 + 2:40 = 17:00. Стиже у 17:00.",
+  "auto": "NICHT-azbuka"
+ },
+ {
+  "id": "idiom-mk",
+  "cat": "culture",
+  "prompt": "Објасни ја поговорката: 'Кажи ми со кого се дружиш, да ти кажам каков си.'",
+  "answer": "Поговорката „Кажи ми со кого се дружиш, да ти кажам каков си“ изразува идејата дека личноста на едно лице се одразува непосредно преку неговите пријатели и окружението. Тоа значи дека ако знаеме со која група или која личност се дружи некој, можеме да го процениме неговиот карактер, вредности и начин на мислење. Поговорката подчина дека пријателите и окружението се важни индикатори за разбирање на човекот.",
+  "expected": "Karakter čoveka se prepoznaje po društvu u kojem se kreće.",
+  "auto": "lang=?✗ (Ziel mk)"
+ }
+]

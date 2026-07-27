@@ -1,0 +1,362 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "„Na Drini ćuprija“ je napisao Milutin Bojić, poznat kao Bora Stanković.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Radovan Petrović-Milošević (1909–1989) bio je srpski naučnik, istoričar, arheolog i književni kritičar. Rođen je u Beogradu, a najpoznatiji je kao arheolog koji se bavio istraživanjem srpske srednjovjekovne povijesti.\n\nNjegov najznačajniji rad je knjiga „Srpski srednji vijek“ (Srpski srednji vijek), koja je predstavila detaljan pregled srpske povijesti od 12. do 15. stoljeća. U ovoj knjizi on analizira političke, društvene i kulturne promjene u srpskom društvu tijekom tog perioda, te pruža dubok uvid u povijesne događaje i procese.\n\nPetrović-Milošević je također bio aktivan u književnoj kritici i bio je poznat kao kritičar i povjesničar književnosti.\n\nNjegovo djelo je važno za razumijevanje srpske povijesti i kulture, a njegovi radovi i danas se koriste od strane historičara i drugih istraživača.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Fotosinteza je proces kojim biljke i neke druge organizme pretvaraju sunčevu svjetlost, vodu i ugljik dioksid u hranu (šećer) i kisik. Biljke koriste ovaj proces da dobiju energiju i rastu. Naša atmosfera je punila s kisikom zbog fotosinteze.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Разбира се, нека решим задачата стъпка по стъпка.\n\n**Дадено:**\n*   Скорост на автомобила: 60 km/h\n*   Време: 2.5 часа\n\n**Търсим:**\n*   Разстояние (път), което автомобилът изминава.\n\n**Решение:**\n\n1.  **Формула:** За да намерим разстоянието, използваме формулата:\n    *   Разстояние = Скорост × Време\n    *   Разстояние = v × t\n\n2.  **Заместване на стойностите:**\n    *   v = 60 km/h\n    *   t = 2.5 часа\n\n3.  **Изчисление:**\n    *   Разстояние = 60 km/h × 2.5 h\n    *   Разстояние = 150 km\n\n**Отговор:** Автомобилът ще измине 150 километра за 2.5 часа.",
+  "score": 1,
+  "script_ok": false
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "1. Дунав\n2. Сава\n3. Велика Морава",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Beograd je glavni grad Srbije i jedan od najstarijih gradova na Balkanu. Grad je poznat po svojoj istorijskoj arhitekturi, posebno u Starom gradu, gde se nalaze znamenite zgrade i spomenici. Osim toga, Beograd je moderan evropski grad sa brojnim kulturnim manifestacijama, umetničkim galerijama i zabavnim sadržajima.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Roman „Povratak Filipa Latinovicza“ napisao je **Ivan Kuže**.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Tomislav Berišić-Kralj (1924–1992) bio je hrvatski pjesnik, književni kritičar i prevoditelj. Rođen je u Splitu, a tijekom života je bio aktivno uključen u kulturne i književne krugove u Hrvatskoj.\n\nNjegovo djelo se odlikuje ekspresionističkim i simbolističkim elementima, a često se bavi temama ljubavi, smrti, vremena i unutarnjeg svijeta. Bio je poznat po svojoj dubokoj introspekciji i sposobnosti da kroz poeziju izrazi složene ljudske osjećaje.\n\nKralj je bio i aktivan književni kritičar, te je svojim analizama i komentarima o radu drugih pjesnika znao oblikovati književnu scenu.\n\nUmro je u Splitu 1992. godine.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Gravitacija je sila koja privlači sve što ima masu – poput tebe i mene – prema zemlji. Zbog nje stvari padaju prema dolje, a ne lete u nebo. Ako bi gravitacija nestala, sve bi se razletjelo u svim smjerovima!",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Kruh košta 8 kuna.\n\n3 kruha će koštati 3 × 8 = 24 kuna.\n\nObjašnjenje:\nAko jedan kruh košta 8 kuna, to znači da cijena jednog kruha je 8. Ako kupujemo tri kruha, moramo pomnožiti cijenu jednog kruha s brojem kruhova. U ovom slučaju, 8 × 3 = 24. Zato će 3 kruha koštati 24 kuna.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Zagreb je glavni grad Hrvatske i smješten na rijeci Savi.\n2. Split je najznačajniji grad na Dalmaciji i poznat po svojoj luci i starom gradu.\n3. Osijek je grad na rijeci Dravi i poznat po svojoj kulturi i sportu.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Zagrebu je glavni grad Hrvatske i najstariji hrvatski grad, poznat po svojoj bogatoj povijesti i kulturnom baštini. Grad je smješten na obali rijeke Save i okružen planinama, što mu daje prekrasan i upečatljiv izgled. Zagreb je poznat i po svojoj modernoj arhitekturi, ali i po brojnim povijesnim spomenicima, poput Strossmayerove kavane i katedrale u Zagrebu. Grad je takođe poznat po svojoj živoj kulturi i festivalskoj sceni.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Roman „Derviš i smrt“ napisao je **Meša Selimović**.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Alija Hodžić-Muratović (1870–1910) je bio bosanskohercegovački književnik, prevoditelj i publicist. Rođen je u Travniku, a najpoznatiji je kao autor pripovjetke „Zlatna jabuka“, koja se smatra jednim od najznačajnijih djela bosanskohercegovačke književnosti.\n\nHodžić-Muratović je bio aktivan u kulturno-prosvjetnom životu svoje zemlje, te je bio angažiran u stvaranju nacionalne književnosti i kulture. Njegovo djelo je obilježeno humanističkim i socijalnim temama, a često se povezuje s realizmom i narodnom književnosti.\n\nUmro je u Travniku 1910. godine.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Kiša je voda koja padne s neba kao sitne kapljice. Kapljice se skupljaju u oblak, a kad postanu teške, padaju na zemlju. Kad kiša padne, cvijeće i trava postaju zeleni i vlažni.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Svaka osoba dobije **3 jabuke**.\n\nObrada:\n\n1.  Imamo 12 jabuke.\n2.  Podjelimo ih na 4 osobe.\n3.  12 jabuka dijelimo na 4 jednaka dijela.\n4.  12 : 4 = 3\n\nSvaka osoba dobije po 3 jabuke.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Sarajevo je glavni grad Bosne i Hercegovine.\n2. Mostar je poznat po Mostaru, starom mostu.\n3. Banja Luka je administrativni centar Republike Srpske.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Sarajevo je grad sa bogatom istorijom i kulturnim nasleđem, poznat po svojoj lepoti i arhitekturi. U srcu grada se nalazi Baščaršija, stari deo grada sa tradicionalnim trgovima i džamijama. Sarajevo je takođe poznato kao „gradište na Bosni“, zbog svoje pozicije na Bosanskom polju. Grad je bio svedok brojnih istorijskih događaja, uključujući Sarajevo masakr i opsadu tokom 1990-ih godina.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "want_script": "azb",
+  "type": "name",
+  "answer": "Романот „Пиреј“ е напишан од македонскиот писател и драматург Ѓорѓи Николовски.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "want_script": "azb",
+  "type": "idk",
+  "answer": "Стеван Ристовски-Кочо (1881–1929) е еден од најзначајните македонски поети од почетокот на XX век. Роден е во Куманово, во тогашната Османска империја.\n\nТој е познат како автор на патриотска и романтична лирика, како и на песни и стихови за децата. Неговиот стил е влијаан од романтизмот и народната поезија, но исто така се одликува со искреност и емоционална сила.\n\nРистовски-Кочо е активен во македонското културно движење и е еден од основачите на Македонската републиканска младина. Неговата поезија ја изразува љубовта кон Македонија и борбата за нејзиното ослободување.\n\nТој починал во Скопје во 1929 година. Неговото дело останува важен дел од македонската литература и култура.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Сонцето е огромна топла сфера во Космосот, од која добиваме светлина и топлина. Тоа е како светла крушка во небото, која ни помогнува да растеме и да живееме. Без него би било многу мрачно и студено.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "want_script": "azb",
+  "type": "num",
+  "answer": "Разбира се, нека решим задачата стъпка по стъпка:\n\n1.  **Знаем цената на едно ябълко:** 10 денари.\n2.  **Трябва да намерим цената на пет ябълки:** 5 × 10 денари.\n3.  **Извършваме умножението:** 5 × 10 = 50.\n4.  **Отговор:** Пет ябълки струват 50 денари.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "Ето три града во Македонија:\n1. Скопје е главниот град и најголем по население.\n2. Битола е вториот најголем град и е познат со својата историја и култура.\n3. Тетово е третиот најголем град и е познат со својата музичка традиција.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Скопие е столицата на Северна Македония и един от най-бързо развиващите се градове в региона. Градът съчетава древна история с модерни архитектурни проекти, като Античния театър и Скопския катедрален храм „Св. Климент“. Скопие е оживен културен център с множество галерии, театри и фестивали, които привличат посетители от цял свят.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Povez Martin Krpana je napisal slovenski pisatelj in pesnik Ivan Tavčar.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Janez Pregelj-Kovač (1895–1955) je bil slovenski pesnik, publicist in prevajalec. Rodil se je 2. julija 1895 v Ljubljani. Že kot mladec je sodeloval v ilegalnem revolucionarnem gibanju, zaradi česar je bil večkrat zaprt. Po Povezliški bitki leta 1920 je postal eden od pomembnejših predstavnikov slovenske moderne.\n\nMed drugo svetovno vojno je bil pregnan v taborišče, kjer je preživel nekaj časa. Po vojni se je vrnil v Ljubljano, kjer je nadaljeval z literarnim delom.\n\nJanez Pregelj-Kovač je umrl 24. oktobra 1955 v Ljubljani.\n\nNjegova poezija se osredotoča na ljubezenske teme, naravo in človekovo notranje bojuje. V svojih pesmih izraža čustva, ki so pogosto globoka in intenzivna.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Dež je voda, ki se v obliki kapljic spusti iz zraka. To se zgodi, ko se vlažna zračne mase dvignejo in se ohladijo, zaradi česar se vlažnost zraka spremeni v kaplje vode. Dež je pomemben za rast rastlin in za napajanje podzemne vode.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Ако една ура (час) струва 20 евро, тогава три часа ще струват:\n\n3 × 20 евро = 60 евро\n\nТова е така, защото умножаваме цената на един час (20 евро) по броя на часовете (3).\n\nАко искаш, мога да ти обясня по-подробно как се смята, или да ти дам пример с числа, за да стане още по-ясно.",
+  "score": 1,
+  "script_ok": false
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Tadej, Maribor in Celje so trije pomembni slovenski mesta.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Ljubljana je čudovita slovenska prestolnica, ki se ponaša z bogato zgodovino in kulturno dediščino. Njena osrednja mesta, kot sta Prešernova ulica in Trg republike, so polna življenja, umetnosti in tradicionalnih kmečkih trgov.\n\n2. Ljubljana je znana tudi kot zelena prestolnica, saj ima veliko parkov in vrtov, kot je Tivoli in Rožna gora. Ti zeleni koti ponujajo mir in sprostitev v središču mesta.\n\n3. Ljubljana je priljubljena turistična destinacija, ki ponuja številne znamenitosti, kot sta Ljubljanski grad in Zmajski most. Območje jezera in okrog njega je priljubljena lokacija za rekreacijo in sprostitev.\n\n4. Ljubljana je znana tudi z aktivnim kulturnim in razvedrilnim programom. Festivali, koncerti in druge dogodki so redni in prispevajo k živahnemu duhu mesta.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Romanin \"Gjenerali i ushtrisë së vdekur\" e ka shkruar **Rexhep Qosja**.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Gjon Prendushi-Marku (1840–1905) ishte një poet i madh shqiptar nga Shqipëria e Veriut. Ai ishte i njohur për poezinë e tij romantike dhe patriotike, e cila përshkruante natyrën shqiptare dhe lëvizjet për liri. Prendushi-Marku ishte një nga poetët më të rëndësishëm të shekullit XIX dhe kontributi i tij ka ndikuar në zhvillimin e poezisë shqiptare.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Shiu është kur njerëzit e thjeshtë ujin nga qielli. Ai bën që gjithçka të jetë e ftohtë dhe të lagë. Shiu është shumë i mirë për bimët, që mund të bien dhe të rriten.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Më mirë të shpjego.\n\nNëse një libër kushton 5 euro, atëherë 4 libra do të kushtojnë 4 herë më shumë.\n\nKështu që, 4 libra do të kushtojnë:\n5 euro x 4 = 20 euro\n\nKështu që 4 libra do të kushtojnë 20 euro.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Tiranë është kryeqyteti i Shqipërisë.\n2. Durrës është një portë e madhe dhe e njohur.\n3. Vlorë është një portë e Shqipërisë dhe një destinacion turistik.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Tiranë është kryeqyteti i Shqipërisë dhe qendër administrative, ekonomike dhe kulturore e vendit. Me histori që datojnë qysh nga lashtësi, qyteti ka qenë shtëpi e shumë civilizime, nga ilirët deri tek romakët dhe osmanët. Tiranë ka një pamje moderne dhe dinamike, me arkitekturë e ndryshme që reflekton historinë e saj. Qendra e qytetit, e njohur si Blloku, është e mbikëqyrur nga Komiteti i Sigurisë dhe ka arkitekturë komuniste, ndërsa zona e Ri është e popullarizuar për restorante, bare dhe aktivitete të reja. Tiranë gjithashtu është e njohur për parket e saj, si Parku i Ndërtimit, dhe për monumentet e saj historike, si Porta e gjirit dhe Xhamia Et’hem Bej. Me një popullsi prej mbi një milion njerëz, Tiranë është qendra e jetës së Shqipërisë dhe një destinacion i rëndësishëm për vizitorë nga të gjithë bota.",
+  "score": 1,
+  "script_ok": true
+ }
+]

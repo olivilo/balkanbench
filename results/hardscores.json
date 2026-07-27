@@ -1,0 +1,85 @@
+{
+ "total": 0.5791666666666667,
+ "catavg": {
+  "Teaching": 0.43333333333333335,
+  "Reasoning": 0.85,
+  "Faktentreue": 0.3125,
+  "Langform": 0.8,
+  "Instruktion": 0.9,
+  "Tool/Agentic": 1.0
+ },
+ "rows": [
+  {
+   "id": "TEACH-sq",
+   "cat": "Teaching",
+   "score": 0.4,
+   "note": "Format gut, 2/5 alban. Wörter falsch (fshehi/leshim)"
+  },
+  {
+   "id": "TEACH-padezi",
+   "cat": "Teaching",
+   "score": 0.7,
+   "note": "7 Kasus korrekt, Akkusativ-Beispiel holprig"
+  },
+  {
+   "id": "TEACH-hr",
+   "cat": "Teaching",
+   "score": 0.2,
+   "note": "č/ć-Erklärung falsch, 'ćovjek' kein Wort"
+  },
+  {
+   "id": "MULTI-math",
+   "cat": "Reasoning",
+   "score": 0.7,
+   "note": "1600 din korrekt, aber KEINE Schritte gezeigt"
+  },
+  {
+   "id": "LOGIC",
+   "cat": "Reasoning",
+   "score": 1.0,
+   "note": "Vesna korrekt, klar erklärt"
+  },
+  {
+   "id": "FACT-avlija",
+   "cat": "Faktentreue",
+   "score": 0.0,
+   "note": "'Josip Šović' statt Ivo Andrić — halluziniert"
+  },
+  {
+   "id": "FACT-skopje",
+   "cat": "Faktentreue",
+   "score": 1.0,
+   "note": "Skopje/Vardar korrekt"
+  },
+  {
+   "id": "FACT-tesla",
+   "cat": "Faktentreue",
+   "score": 0.25,
+   "note": "Smiljan ok, aber 'u Srbiji' falsch (=Hrvatska)"
+  },
+  {
+   "id": "HALLU-trap",
+   "cat": "Faktentreue",
+   "score": 0.0,
+   "note": "ERFINDET Bio für nicht-existenten Dichter (gefährlich)"
+  },
+  {
+   "id": "LONGFORM",
+   "cat": "Langform",
+   "score": 0.8,
+   "note": "5 kohärente Sätze, stoppt, kleine Grammatikslips"
+  },
+  {
+   "id": "INSTRUCT",
+   "cat": "Instruktion",
+   "score": 0.9,
+   "note": "genau 3, Azbuka, je 1 Satz — sehr gut"
+  },
+  {
+   "id": "TOOL-CALL",
+   "cat": "Tool/Agentic",
+   "score": 1.0,
+   "note": "valider <tool_call> get_weather(Beograd)"
+  }
+ ]
+}

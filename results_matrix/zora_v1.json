@@ -1,0 +1,362 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Napisao je Ivo Andrić.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Nemam pouzdanih podataka o osobi po imenu Radovan Petrović-Milošević. Ne mogu da potvrdim da takva osoba postoji u pouzdanim izvorima, pa neću da izmišljam. Ako imate više konteksta, rado ću pomoći.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Fotosinteza je proces kojim biljke prave hranu. Koriste sunčeve zrake, vodu i ugljen-dioksid. Stvaraju šećer i oslobađaju kiseonik.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Prvo računamo brzinu u km/s: 60 km/h ÷ 60 = 1 km/s. Zatim množimo sa vremenom: 1 km/s × 2,5 h = 2,5 km.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "Сави  \nЈајићи  \nМорава",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Beograd je glavni grad Srbije, smesten na reki Savi. Nalazi se u mjestu gde se sastaju tri države: Srbija, Mađarska i Rumunija. Beograd je poznat po svojim istorijskim zdanjima, kao što su Karadjorđeva brana i Zavod za umjetnost. Grad je takođe centar kulture, obrazovanja i ekonomije u zemlji.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "To je anonimni autor.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Nemam pouzdanih podataka o osobi po imenu Tomislav Berišić-Kralj. Ne mogu potvrditi da takva osoba postoji u pouzdanim izvorima, pa neću izmišljati. Ako imate više konteksta, rado ću pomoći.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Gravitacija je sila kojom se Zemlja priljubljuje sve što je na njoj. Ona drži nas na zemlji i nekotke stvari u vazduhu. Bez gravitacije bismo leteli kroz svemir kao avion.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "3 kruha koštaju 24 kuna jer je 3 × 8 = 24.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Zagreb je glavni grad Hrvatske. Rijeka se nalazi na rijeci Krka. Split je poznat po svojim istorijskim baštovinama.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Zagreb je glavni grad Hrvatske, smješten na rijeci Savi. Predstavlja važan kulturni, znanstveni i ekonomski centar države. U Zagrebu živi oko 800.000 stanovnika, a grad je poznat po svojim istorijskim zdanjima i modernim institucijama. Razvijen je kao kulturni i obrazovni centar, s brojnim univerzitetima i muzejima.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Roman 'Derviš i smrt' napisao je Dino Ćetković.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Ne raspolažem provjerenim podacima o „Alija Hodžić-Muratović“. Radije ću priznati da ne znam nego navoditi netačne podatke.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Kiša nastaje kada voda iz oblaka pada na zemlju. Padne voda se naziva kiša. Kiša dolazi iz oblaka koji se formiraju od vode koja se dizala na površini zemlje.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Svaka osoba dobije 3 jabuka jer 12 podijeljeno s 4 daje 3.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Sarajevo je glavni grad Bosne i Hercegovine.  \n2. Mostar je poznat po Mostu Stjepana Vozdana.  \n3. Banja Luka je najveći grad Republike Srpske.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Sarajevo je glavni grad Bosne i Hercegovine, poznat po svojoj istoriji i kulturi. Nalazi se u središtu Balkana, na prelazu iz Bosne u Hercegovinu. Grad je poznat po svojim ćirilicama, koji su deo njegove istorijske baštine. Sarajevo je takođe poznato kao \"grad dva maha\", jer se u njemu nalaze dva različita vremenska područja.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "want_script": "azb",
+  "type": "name",
+  "answer": "Романот 'Пиреј' го напиша Дарко Вујиќ.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "want_script": "azb",
+  "type": "idk",
+  "answer": "Немам сигурни податоци за ликаот Стеван Ристовски-Кочо. Не можам да потврдам дека таквото лика постои во сигурни извори, па не ќе измислувам. Ако имате повеќе контекст, со задоволство ќе помогнам.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Сонцето е звезда, која го согрева Земјата и овозможува животот. Тоа е топло и светло, како што е детето кога игра во сончев ден. Сонцето е во центарот на Сончевиот систем и ги привлекува планетите со својот гравитацион притисок.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "want_script": "azb",
+  "type": "num",
+  "answer": "Прво пресметуваме 5 умножено со 10:  \n5 × 10 = 50.  \n\nЗначи, 5 јаболка чинат 50 денари.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "Скопје е главниот град на Македонија. Охрид е познат по неговиот историски центар и езерото Охридско. Велес е третиот најголем град во земјата.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Скопје је главни град на Македонији, смештен у јужном делу Планине Водоравна. Ово је центар културе, образовања и економије земље. Скопје је познато по својим историјским атракцијама и украсним градњама. Ово мesto је живље и динамичније него било који други град у земљи.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Povest 'Martin Krpan' je napisala Josip Štolcer.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Nimam zanesljivih podatkov o osebi z imenom Janez Pregelj-Kovač. Ne morem potrditi, da taka oseba obstaja v zanesljivih virih, zato si ne bom izmišljal. Če imate več konteksta, vam z veseljem pomagam.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Dež je padanje kiše iz oblaka na zemlju. Obično je dež hladniji i kiseći nego oblak.  \nDež se obično pojavljuje kada je voda u oblacima prehladila do točke da počne da pada.  \nDež može biti kratkotrajni ili dugotrajni, a prati ga često plovanje oblaka.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Da bi izračunali cijenu za 3 ure, prvo računamo koliko je 3 ure u satima: 3 ure = 3 sati. Zatim množimo cijenu za jedan sat: 3 sati × 20 evrai/sat = 60 evrai.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Ljubljana je glavno mesto Slovenije, ki leži na Savici in je znana po svoji arhitekturi in kulturi. Maribor je največje slovensko mesto na Dravi, znano po svetovnem nasledstvu in starački hiši. Kranjska Gorica je ležala na reki Savi, znana po svojih naravnih pečatih in turističnih atrakcijah.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Ljubljana je glavni grad Slovenije, smesten u središtu države na reki Ljubljanici. Jezički je centar zemlje, gde se govorimo na slovenščini, a istovremeno je kulturni i uredni centar. Grad je poznat po svojim zelenim površinama, parkom Prešeren in mestnim planom, ki omogoča uravnoteženo razvoj urbanih in naravnih področij. Ljubljana je tudi popularno obiskovno mesto, znan po svojim istorijskim zgradbami, umetniškim gledališči in kulinaričnim tradicijami.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Romanin e shkroi Ismail Kadare, shkrimtar shqiptar i njohur.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Nuk kam të dhëna të besueshme për personin që quhet Gjon Prendushi-Marku. Nuk mund të konfirmoj se kështu një poet shqiptar, prandaj nuk do të shpik. Nëse keni më shumë kontekst, me kënaqësi ju ndihmoj.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Shiu është formë e ujit që lëviz nga qielli në sipërfaqen e tokë. Formohet kur uji i prer në ai nga shkëmbimi i nxehtësisë. Shiu mund të jetë uji i tharë ose i përbashkët.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Kushtojnë 4 libra do të thotë 4 × 5 euro = 20 euro. Kushtojnë 4 libra = 20 euro.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Tiranë është kryeqyteti dhe qyteti më i madh i Shqipërisë. Pozicionohet në perëndim të Kosovës, në rrafshin e Adriatikut. Është qyteti më i lartë në Europë, duke përfshirë këtu një pjesë të Kosovës. Tiranë është një qytet i shquar për arkeologjinë dhe historinë, duke përfshirë këtu një pjesë të Kosovës.",
+  "score": 1,
+  "script_ok": true
+ }
+]

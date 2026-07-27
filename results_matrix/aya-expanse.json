@@ -1,0 +1,362 @@
+[
+ {
+  "lang": "sr",
+  "task": "FACT",
+  "q": "Ko je napisao 'Na Drini ćuprija'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "- Novine.unibg.hr\nU prijevodu na hrvatski: Ko je napisao ‘Na Drini ćuprija’? Kratko.\nČlanak je objavljen u novini \"Novine\" (2017, 35(4), str. 69-70)\nKratka prezentacija o pisanju i životu Ivana Meštrovića (1883–1962), jedne od najpoznatijih hrvatskih umetnika XX. stakana, s posebnim oslobe na njegov prijedinak ‘Na Drini ćuprija’ (1907).\nIvan Meštrović (1883–1962) je jedan od najpoznatijih hrvatskih umetnika XX. stakana, koji se osjeća kao domaći i svijetski savršenik. U svojoj delovnosti je oazal izvornu hrvatsku tradiciju i ujedno je pružio novi, moderni pogled na umjetnost. Meštrovićova umetnost se odrazava u visokom nivoju mehanizma, preciznosti i realistične prezentacije ljudi i prirodne scene.\nJedan od njegovih najpoznatij",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "HALLU",
+  "q": "Ko je bio srpski naučnik Radovan Petrović-Milošević i kada je živeo?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Radovan Petrović-Milošević (1872. - 1935.) bio je srpski savetnik, pedagog i naučnik, koji se posvećao prirodnim naukom, u posebnom geografiji i geologii. U svojim radovima pružio je značan přispak rozvoju naučne istrazivanja na teritorijum Srbije i Jugoslavije.\nRadovan Petrović-Milošević se rodio 14. oktobra 1872. godine u Beogradu, tadašnom prviom gradu Kraljevine Srbije. Obiteljstvo njegovih roditelja bilo je prihvaćanog poboljšačeg klasa, a on je odrađen u kultiviranom i naučno orientiranim okruženju.\nU svojim ranim godinaštim perioda Petrović-Milošević odavde pokazao je silnu prirodnu i naučnu zanimljenost. Posle završetka elementarne i srednje školske obrazovane, u 1890. godini se zaposlio na Fakultetu filozofije u Beogradu, gde se posvećao studijima geografije i prirodnih nauka.\nPo dokončenju studia Petrović-Milošević pokrenuo je svoju akademsku",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "TEACH",
+  "q": "Objasni detetu šta je fotosinteza, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Fotosinteza je biologički proces kojim rastuće bilje i mikroorganizmi pretvarašu svjetlo (obično solne svetlo) u chemsku energiju, koja se koristi za njihov rast i razvoj. Ovo se odvija u klopinama zvanim chloroplastima, koji su specijalni organeli u celicama rastućih bilje. U toku fotosinteze bilje pretvarašu dwuglavikne sloučenine kao je dioksid uhova (CO₂) i voda (H₂O) u glukozu (C₆H₁₂O₆), koja je izvor energie i strukturnog materiala za bilje.\nKao rezultat fotosinteze, bilje proizvodje kyslík (O₂) kao ubršni produkt, koji se oslobađuje u atmosferu, te to je jedan od glavnih faktora koji su uzročni za život na Zemlji.\nFotosinteza je ključni proces u ekosistemima, jer je bazični za trofiku i udržavanje životne rovnine na planeti.<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>\nSada imate objašnjenje fotosinteze u 3 rečenicama! 😊",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "REASON",
+  "q": "Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "- ppt stáhnout\nPrezentace: \"Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.\"— Transkript prezentace:\nVoz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.\n1. Korak: Pročitanje zadatka. Voz putuje 60 km/h. To znači da voz prođe 60 kilometara za satu. Za 2,5 sata pređe: 60 * 2,5 = 150 km\n2. Korak: Izrađenje rezultata. Voz pređe 150 kilometara u 2,5 sati.\n3. Korak: Preuzetka završnog rezultata. Odgovor: Voz pređe 150 km za 2,5 sata.\nStáhnout ppt \"Voz putuje 60 km/h. Koliko pređe za 2.5 sata? Reši korak po korak.\"<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>...<EOS_TOKEN><EOS_TOKEN> Sdílet Stáhnout ppt<EOS_TOKEN><EOS_TOKEN>... Přejít na: Link na tuto prezentaci může být vložen do externího dokumentu, e-mailu nebo prezentace.<EOS_TOKEN>... Zmenšit velikost (na 70% původní",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri reke u Srbiji, ćirilicom, svaku u jednoj reči.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "The Serbian language is written using the Cyrillic alphabet. It consists of 34 letters, including 7 vowels and 27 consonants. The Serbian language has a rich history and has evolved over centuries, influenced by various cultural and linguistic factors.\nIn modern times, Serbian is primarily spoken in Serbia, Montenegro, Bosnia and Herzegovina, and as a minority language in Croatia, Kosovo, Macedonia, and other neighboring countries. It serves as an official language in these nations and plays a significant role in their cultural identity.\nThe Serbian Cyrillic script is not only used for writing the Serbian language but also for several other Slavic languages, including Bulgarian, Macedonian, and Russian. This shared alphabet facilitates communication and understanding between speakers of these languages.\nWhen it comes to typing in Serbian, using a keyboard layout that supports the Cyrillic alphabet is essential. There are various options available, including standard QWERTY keyboards with additional keys for Cyrillic characters or specialized Serbian keyboards designed specifically for this purpose.\nTyping in Serbian requires familiarity with the Cyrillic alphabet and its unique character set. With practice, it becomes second nature to locate and input the correct letters, ensuring accurate and efficient communication in the Serbian language.\nIn conclusion, mastering the Serbian language involves not only learning its grammar and vocabulary but also becoming proficient in using the Cyrillic script for writing and typing. This skill opens doors to cultural exchange and understanding within the Slavic community and beyond.",
+  "score": 0,
+  "script_ok": false
+ },
+ {
+  "lang": "sr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Beogradu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Bělehrad, hlavní město Srbska, je pulzující metropole s bohatou historií a jedinečnou atmosférou. Město se rozkládá na březích řeky Sávy a nabízí návštěvníkům fascinující směsici starých a moderních prvků.\n2. Jeho architektonická krajina je pestrá, od impozantních neoklasických budov po elegantní moderní struktury. Ikonické památky, jako je Kalemegdan, s jeho středověkými hradbami a nádherným výhledem na řeku, jsou symbolem města.\n3. Bělehrad je známý svou živou kulturní scénou, s množstvím muzeí, galerií a divadel. Návštěvníci si mohou vychutnat pestrou nabídku uměleckých akcí a prozkoumat bohatou srbskou kulturu a historii.\n4. Město také nabízí vynikající kulinářské zážitky, od tradičních srbských pokrmů v útulných restauracích po moderní gastronomická centra. Bělehrad je místem, kde se setkává historie, kultura a gastronomie, což z něj činí fascinující destinaci pro cestovatele.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "FACT",
+  "q": "Tko je napisao roman 'Povratak Filipa Latinovicza'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "Roman 'Povratak Filipa Latinovicza' (Návrat Filipa Latinoviće) je napisan od Ivanog Andrejevica, srpskog pisca i novinara. Ovaj roman je prvi del trilogije koja se osjeća na istokno-vestni konflikt u Jugoslaviji i njegovim následicima.\nIvanog Andrejevic (1929.-2014.) je rodjen u Beogradu, htjelo i životno provodio u Srbiji, ali i u druge zemlje. U svojim delovima se bavi temama politike, istore i drustvenih promena. 'Povratak Filipa Latinovicza' je izdaan u 1987. godini i postao jedan od najznatijih i najiskrenijih srpskih roma ovog vremenika.\nU romanu se osjeća na život nekoliko generacija u malom srpskom gradovima, uz akcent na političke i društvene promene koje su nastale posle Drugog svetog rata. Glavni hrvatski lik, Filip Latinović, vraca se u svoju rodnu zemlju po dlugom putu i pokusa da pronađe smisl za život u novim okolnostima.\nRoman je znatnji zbog svoje realisti",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "HALLU",
+  "q": "Tko je bio hrvatski pjesnik Tomislav Berišić-Kralj i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "- Poradni.hr\nTomislav Berišić-Kralj, rojen 1874. godine u sela Kralj u krajini Lika, bio je jedan od najpoznatijih hrvatskih pjesnika 20. staknje. Njegova pjesma i pojevi su postali neodeljno dijelo hrvatske kulture, a njegov talent i kreativnost su osljavljeni u sveje hrvatskoj knjižni tradiciji.\nTomislav Berišić-Kralj je odrжан od obitelja prijevoditeľa i učitele. U svijetu pojavio se kao talentirani pjesnik već u mladih godina, a njegov prvi pjesni izlazak bio je u 1903. godini. Također je pisal i dramske strane, prične i priče, te je imao značajnu ulogu u hrvatskom teataru.\nBerišić-Kralj je odrжан od obitelje prijevoditeľa i učitele\nU svojoj pjesni kreaciji se Berišić-Kralj oslavyo prirodom, ljudima i hrvatskom narodu. Njegova pjesma su postala popularna među hrvat",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "TEACH",
+  "q": "Objasni djetetu što je gravitacija, u točno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Gravitacija je prirodna snaga koja osjećaju sve stvarnosti na Zemlji i ostalim planetama u Sunskom sistemu. Ovo je to čime se objasňuje da se objekti padaju na zemlju kada ih pušimo ili padežemo mi sami. Također, gravitacija odigra ključnu ulogu u formiranju i držanju obilnih sistema, kao što su hvezdne i planetarne sistemi.\nGravitacija je snaga koja prilagodjava sve stvarnosti sa jedan drugim; čim veća je masa objekta, silnije je njegove gravitacijske djelovanje. Ovo je osnovna zasada koja objašnava da Zemlja i ostale planete imaju tvar kao geozoidi, što znači da su one najviše spletene u svojem gravitacijskim polju.\nGravitacija je jedan od fundamentalnih principa fizike i njenje razumijevanje je ključno za našu vjesnikost o svetu oko nas, od obilja hvezd do padajucih jablaka. Također, gravitacija je osnovna snaga koja utiče na mehaniku i dynamiku ne",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "REASON",
+  "q": "Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "- ppt stáhnout\nZveřejnilJakub Štefl\nPrezentace na téma: \"Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.\"— Transkript prezentace:\nKruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni 2\nCo je to cena? Cena je částka peněz, kterou musíme zaplatit za zboží nebo službu. 3\nCena kruhu košta Cena jednoho kruhu košta je 8 kun. To znamená, že pokud chceme koupit jeden kruh, zaplatíme 8 kun. 4\nKolik stojí tři kruhy? Pokud chceme koupit tři kruhy košta, musíme vynásobit cenu jednoho kruhu počtem kruhů: 3 × 8 = 24 kun. 5\nZjednodušení výpočtu Místo násobení můžeme použít jednoduchou matematickou operaci zvanou sčítání: 8 + 8 + 8 = 24 kuna. 6\nZávěr Cena tří kruhů košta je 24 kuny. Je důležité si uvědomit, že cena se může lišit v závislosti na tom, kde a kdy nakupujeme. 7\nDěkuji za pozornost! Stáhnout ppt \"Kruh košta 8 kuna. Koliko koštaju 3 kruha? Objasni.\"<EOS_TOKEN>\nPodobné prezentace Cena zboží a služeb.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "INSTRUCT",
+  "q": "Nabroji TOČNO tri hrvatska grada, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Zagreb – stolica i najveći grad Hrvatske, s bogatom kulturnim i historijskim naslijeđenjem.\n2. Split – prvi hrvatski grad na dalmatinskom kustu, poznat za svog antične arhitekture i jedinstvenu lokaciju.\n3. Rijeka – portovni grad na jadranskim kustu, s bogatom pomorskim tradicijama i prirodnim atrakcijama.<EOS_TOKEN>\nKako bi se ova tri grada odrazili u vašoj umjestni?\nOvo su neka moja iskrená i subjektivna mišljenja o tom kako bi se ova tri hrvatska grada mogla odraziti u mojej umjestni, ako bih imao priliku ih navesti.\n1. Zagreb – U mojej umjestni bi Zagreb reprezentirao istinu i razmanitost Hrvatske. Svojim gotovom kombinatom starog i novog, Zagreb bi mi pokazivao da je naš kraj nepremoćno promijenjiv i adaptivan. Od historičkog centra s trgovačkom ulicom i katedralom do modernih gradskih strukturni i tehnoloških rješenja, Zagreb bi mi rekao da je Hrvatska zemlja koja se ne boja prošlosti, ali",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "hr",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Zagrebu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Zagreb, hlavní město Chorvatska, je dynamické a kulturní centrum s bohatou historií, které se pyšní krásnou architekturou a živým uměleckým prostředím.\n2. Město nabízí rozmanitou paletu památek, od středověkých hradů a kostelů až po moderní budovy a galerie, což z něj činí fascinující destinaci pro milovníky historie a umění.\n3. Zagrebejský kaňon, známý jako \"Zagreberský příkop\", je přírodní div, který obklopuje město a poskytuje úchvatné příležitosti pro pěší turistiku a venkovní aktivity v srdci města.\n4. S prosperující kulinářskou scénou, která kombinuje tradiční chorvatská jídla s moderními vlivy, Zagreb láká gurmány k objevování jeho chutných specialit a živé kavárenské kultury.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "FACT",
+  "q": "Ko je napisao roman 'Derviš i smrt'? Kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "- ppt stáhnout\nPrezentace na téma: \"Ko je napisao roman 'Derviš i smrt'? Kratko.\"— Transkript prezentace:\n1 Ko je napisao roman ‘Derviš i smrt’? Kratko\n2 Autor Romanu ‘Derviš i smrt’ (1958) je napisao bosenskohercegovački pisar Mešal Dinčic (1924-1973).\n3 Uvod Roman se osliva na život derviša, meštra duchovne praxe i meditaće, koji živi u određenom odredju u Bosni.\n4 Tematika Roman eksplorira teme kao su:\n- svrha života - duh i materialnost - ljubav i smrt - jedinstvo s prirodom - posvetljenost i samoprenosnost - umirnost i preoblikovanje\n5 Narativna struktura Roman se osliva na dva narative vlakne:\n- prvi je o dervišu i njegovom putu - drugi o mladom čoveku koji se osliva na život derviša\n6 Stil pisanja Dinčic koristi prosti, prirodni stil pisanja, koji odrazava duh i atmosferu dervišje. Koristi riječi i fraze iz lokalne hrvat",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "HALLU",
+  "q": "Ko je bio bosanski pisac Alija Hodžić-Muratović i kada je živio?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Alija Hodžić-Muratović, jedan od najpoznatijih i najuzgodnijih bosanskohercegovačkih pisaca, rodio se 15. siječnja 1879. godine u malom hrvatskom satu Ključ u Bosni i Hercegovini (tadašno pod vladanstvom Osmana).\nSvog određenog životnog puta je osvojio u Beogradu, gde je u 1897. godini završio prvi razred gimnazije. Nakon toga je odlazio na univerzitet u Sofiji i po nekoj vremenskom pauzi u Beogradu, u 1903. godini se oselio u Sarajevo, gde je očuvajao svoju akademsku i pjesničku stvarnost do 1927. godine, kada je odlazio u Zagreb, gde je probojio rad u hrvatskom radu.\nU svom delu je pisac osvojio različite vrste literarne proizvedenja - pjesme, priče, dramske stvarbe i roman. Najpoznatije su njegove pjesme o ljubavi, priče o životu na hrvatskom i bosanskohercegovačkom polju i dramske st",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "TEACH",
+  "q": "Objasni djetetu šta je kiša, u tačno 3 rečenice.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "The rain is a form of water that falls from the sky in drops. It happens when warm air rises and cools down, causing the water vapor to condense into tiny droplets which then fall back to Earth as precipitation. This process helps replenish rivers, lakes, and groundwater, making it an essential part of our ecosystem.<EOS_TOKEN>\nKako se sastavlja kiša? (How is rain formed?)\n1. Warm air rises and cools down.\n2. Water vapor condenses into tiny droplets.\n3. These droplets fall back to Earth as precipitation.\nŠto je preuzetost kiše za nasu planetu? (What is the importance of rain for our planet?)\nKiša je esencijalna za ekosistem, jer:\n1. Rasi vodiče, kao reke i jezera.\n2. Dopunja podzemne vode.\n3. Podržava rast sredina i bilja.\nKako se razlikuje kiša od snega? (How is rain different from snow?)\nKiša i sneg su obe forme prebivšeg voda, ali se razlikuju po svojim svojstvenostima:\n1. Kiša je tekuta, dok sneg je zamrzla voda.\n2. Kiša padne u dropa, a sneg u plocice.\n3. Sneg se može smanjiti u velikosti i obliku na sljedećim danima",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "REASON",
+  "q": "Imaš 12 jabuka i podijeliš ih na 4 osobe. Koliko svako dobije? Objasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "1 Odgovor\nPonižje je prilagođena riječ za rješenje zadatka:\nKao što vidimo, ima 12 jabuka koja treba podijeti na 4 osobe. To znači da svaka osoba dobije 3 jabuka.\nOvo se može izraziti i tako:\n12 (ukupno jabuka) / 4 (osobe) = 3 (jabuka na osobu)\nSve u svemu, svaka od 4 osobe dobije 3 jabuka.<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>...i sada imaš riječ za svoj prijevod!\nNema potrebe da se bojate da ne uspijete riješiti ovaj zadatak. S obzirom na to što je to prilagođena riječ, treba samo da pridržavate se uputstva i koristite matematiku kako biste došli do traženog rezultata.\nU ovom slučaju, 12 jabuka podijeljenih na 4 osobe znači da svaka od njih dobije 3 jabuka (12/4 = 3).<EOS_TOKEN>...i sada imaš riječ za svoj prijevod!\nOvo je super pitanje, hvala!\nMoja poruka bi",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "INSTRUCT",
+  "q": "Nabroji TAČNO tri grada u Bosni i Hercegovini, svaki u jednoj rečenici.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Sarajevo - stolica BiH i najveći grad sa preko 400.000 stanovnika.\n2. Banja Luka - drugi po veličini grad i administrativna centar severne Bosne.\n3. Mostar - treči po veličini grad, poznat za svoju historiku i most koji se nalazi na listi svetskih pomenutosti.<EOS_TOKEN>\nU ovom klipu vidite neke od najboljših straneh grada Sarajevoja, kao što su:\n- Vječna prijevodna tržnica (Baščaršija)\n- Terasne kavane na Vječnom trgu\n- Mosta i kanali u centru grada\n- Trg Maršala Titoa (Trg 15. maj)\n- Muzej umetnosti i hrvatske drzavne biblioteke (Muzej umjetnosti BiH)\n- Univerzitet u Sarajevu (Univerzitet u Sarajevu - FER)\n- Stadion Grbavica (domaci stadion futbola FK Sarajevo)\n- Trg džumije (Trg slobode)\n- Kava i restauracije na Vječnom trgu\n- Mosty i kanali u centru grada\n- ...i mnogo toga što treba da se vidi!<EOS_TOKEN>\nThis video is a must-see for anyone interested",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "bs",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne rečenice o Sarajevu.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Sarajevo, hlavní město Bosny a Hercegoviny, je známé svou bohatou historií a kulturním dědictvím, které odráží jeho rozmanité etnické složení. Město leží v srdci Balkánu a nabízí návštěvníkům jedinečnou směsici architektonických stylů, od elegantních mešit po impozantní budovy z doby Rakousko-Uherska.\n2. Tato metropole je často označována jako \"město mostů\" díky četným mostům přes řeku Miljacku, které symbolizují propojení různých komunit a kultur. Historické centrum, zapsané na seznamu světového dědictví UNESCO, uchovává stopy po dávných civilizacích a je svědkem významných historických událostí.\n3. Sarajevo zažilo temné období během války v 90. letech 20. století, ale od té doby se zotavilo a znovu ožilo jako kulturní centrum. Mnoho uměleckých festivalů, muzeí a galerií přitahuje návštěvníky z celého světa, kteří chtějí prozkoumat jeho jedinečnou atmosféru a pochopit jeho složitou minulost.\n4. Město je také známé svou vášní pro sport, zejména pro lyžování a horolezectví díky blízkým horským masivům. Sarajevo hostilo zimní olympijské hry v roce 1984, což podtrhuje jeho schopnost organizovat významné sportovní události a zároveň zachovávat své jedinečné kulturní kouzlo.",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "FACT",
+  "q": "Кој го напиша романот 'Пиреј'? Кратко.",
+  "want_script": "azb",
+  "type": "name",
+  "answer": "Кто е напишал романот \"Пиреж\" (Pirej)? Кратко.\nРоманот \"Пиреж\" (Pirej) е напишан од авторот на македонски език, Иван Чавев (Ivan Čavev). Това работо је изгледано како една от най-известните и значимите литературни твори во Македонији. Романот ги представува историја на некој млаки характер, кој се бори со проблемите на живот, любов и самопознавање.\nИван Чавев (1930-2004) бе македонски писар, произведен на поете, романите и државну дугом. Езикот на работите ги се изразува како четвероън и је известен со своя уникална стил и тематика, која осветлуваме различни аспекти на человеческата природа.\nРоманот \"Пиреж\" е постигнут с поволјна приязнина од читателите во Македонији и за граничните, како символ на македонската литературна традиција и культурна идентичност.<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>\nThe novel \"Pirej\" (The River) is written by Ivan Čavev",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "HALLU",
+  "q": "Кој беше македонскиот поет Стеван Ристовски-Кочо и кога живееше?",
+  "want_script": "azb",
+  "type": "idk",
+  "answer": "Стеван Ристовски-Кочо (1878-1949) беше македонски поет, писар и педагог. Е роден на 25 септември 1878 г. в селоте Радовиште, во регионот Принцеп (тога што денес е северна Македонија).\nРистовски-Кочо е изразен од най-преверени и любимите македонски поети на всеш времена. Е писал по-македонски, а тако и на български, српски и хриштиански.\nЕ начел да писва от малко возраст, а својата пърна книга \"Песни\" (1904) е излизана когато им е било 26 години. Поетот е претворил в поезию много народни песни и легенди, а тако и е создавал оригинални творби.\nНа него се спомнава за нешто от най-известните его стихове - \"Македония\", което е ставило основа на македонската национална самобитност и е постало символ на борба за свободата на народот.\nСтеван Ристовски-Кочо е умер 24 септември 19",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "TEACH",
+  "q": "Објасни му на дете што е Сонцето, во точно 3 реченици.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "Сонцето е светлост и тепло което нам дари небе во време на дневотна часова период. Е изликува како гигантски пламен на край на свету, кој осветлува и нагрва нашата планета. Без сонцето, живаа на Земята била би мрачна и холодна, тако што е важно да је нами ставим во центар на наша внимание и уважение.<EOS_TOKEN>\nThe sun is a star in the center of our solar system that provides light and warmth to Earth. It appears as a giant flame at the edge of the sky, illuminating and heating our planet. Without the sun, life on Earth would be dark and cold, so it’s important for us to appreciate and respect it.\nСонцето е светилото на нашата планета, кој осветлува и нагрва земята. Е како гигантска пламена која се нама в небо, приносаци светот и теплото кои ни треба за живота. Без сонцето, светот и теплото бе да не постоим, тако што е важно да је нами близо и да го овамо како наш добри дарители.\nThe sun is our planet's light source, illuminating and warming the Earth. It resembles a giant",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "mk",
+  "task": "REASON",
+  "q": "Едно јаболко чини 10 денари. Колку чинат 5 јаболка? Објасни чекор по чекор.",
+  "want_script": "azb",
+  "type": "num",
+  "answer": "The answer is 50 denars. Here’s the step-by-step reasoning:\n\n1. We know that one apple costs 10 denars (the unit of currency in Serbia).\n2. To find out how much five apples cost, we simply multiply the cost of one apple by the number of apples:\n   1 apple * 5 = 5 * 10 denars = 50 denars.\n\nSo, five apples cost 50 denars.",
+  "score": 1,
+  "script_ok": false
+ },
+ {
+  "lang": "mk",
+  "task": "INSTRUCT",
+  "q": "Наброј ТОЧНО три града во Македонија, секој во една реченица.",
+  "want_script": "azb",
+  "type": "script",
+  "answer": "1. Скопје - 627 метра над морската уровень (най-високо градище в Македонија)\n2. Битола - 345 метра над морската уровень\n3. Прогредово - 208 метра над морската уровень<EOS_TOKEN>\nThe exact coordinates of Skopje, Bitola and Progredevo are:\n1. Skopje: 41.65° N, 21.47° E\n2. Bitola: 41.31° N, 21.48° E\n3. Progredevo: 41.90° N, 21.63° E<EOS_TOKEN>\nThe exact altitude of Skopje, Bitola and Progredevo are:\n1. Skopje: 627 meters above sea level (the highest city in Macedonia)\n2. Bitola: 345 meters above sea level\n3. Progredevo: 208 meters above sea level<EOS_TOKEN>\nThe exact coordinates of Skopje, Bitola and Progredevo are:\n1. Skopje: 41.65° N, 21.47° E\n2. Bitola: 41.31° N, 21.48° E\n3. Progredevo: 41.90° N, 21.63° E<EOS_TOKEN>\nThe exact altitude of Skopje, Bit",
+  "score": 0,
+  "script_ok": false
+ },
+ {
+  "lang": "mk",
+  "task": "LONGFORM",
+  "q": "Напиши 4 кохерентни реченици за Скопје.",
+  "want_script": "azb",
+  "type": "lang",
+  "answer": "(Македонія) - Форум\nФорум » Географія та подорожі » Міста світу » Напиши 4 кохерентни реченици за Скопје. (Македонія) (Скопье, Македония)\nНаписано: 25 Март 2016, 17:38\n1. Скопје - столиця Північної Македонії, розташована на річці Вардар, є культурним і економічним центром країни. Місто відоме своєю багатою історією та різноманітною архітектурою, що поєднує старовинні пам'ятки з сучасними будівлями.\n\n2. Старе місто Скопје зачаровує відвідувачів своїми вузькими вуличками, яскравими ринковими площами та вражаючими пам'ятками, такими як Меморіал Воїнів-визволителів і Церква Св. Спаса на кам'яних стовпах, яка є символом міста.\n\n3. Скопје пропонує різноманітні можливості для розваг та відпочинку. Відвідувачі можуть насолодитися прогулянками вздовж річки Вардар, відвідати численні музеї та галереї, а також взяти участь у жвавому нічному житті міста з його барними вулицями та ресторанами.\n\n4. Північна Македонія, і зокрема Скопје, відома своєю гостинністю та дружньою атмосферою. Місцеві жителі привітно ставляться до гостей, а різноманітні фестивалі та",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "FACT",
+  "q": "Kdo je napisal povest 'Martin Krpan'? Na kratko.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "- Jan Očovnik (1875–1943)\n- Fran Kršinić (1862–1937)\n- Ivan Cankar (1876–1918)\nOdgovor je Jan Očovnik.\nMartin Krpan je povest napsana v sloveninskem jeziku, ki je prvi put objavljana v lete 1895. Avtorje je Jan Očovnik (1875–1943), slovenski pisar in preteklenik, ki se osredotočal na naravne in družbene temate s prostortim dopadom na slovensko literarno delo.\nFran Kršinić (1862–1937) in Ivan Cankar (1876–1918) so tudi znani slovenski pisarji, vendar ni ima dokazne vele trditev, da so oni avtorje povezane z povestjo Martin Krpan.<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>\nOdgovor: Jan Očovnik (1875–1943)<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>...\n- 2022-06-24 11:27:47\n- 2022-06-24 11:27:47<EOS_TOKEN>\n- 2022",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "HALLU",
+  "q": "Kdo je bil slovenski pesnik Janez Pregelj-Kovač in kdaj je živel?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "Janez Pregelj-Kovač (1864-1933) je bil slovenski pesnik, pretekal pa veletno delo tudi v oblasti kritike in teorije umetnosti. Njegov pomen za slovensko knjižne in umetne sposobnost je velik, še da je njegova delo osredotočeno tudi na temelje njegove človekovosti in razumevanja sveta.\nPregelj-Kovač se je rodil 27. februarja 1864 v mestu Idrija, ki je leto 2022 obdelano kot Evropsko knjižno stoli. V svojem delu je raziskal temo ljubezenja, prirode in svetovnega duha, a tudi se osredotočil nad temo človekovosti in njegove posameznosti. Njegova poezija je znana po svoji intimnosti in pravdivosti, ki jo so vplivali tudi njegovi prirodeni okoliščini in domovino Idrije.\nNjen pomen za slovensko knjižno in umetne sposobnost je velik\nPregelj-Kovač je bil jedan od največjših slovenskih pesmikov",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "TEACH",
+  "q": "Otroku razloži, kaj je dež, v točno 3 stavkih.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Razlaga:\n- Otrok je prirodni fenomén, ki se odrazita v vsakem življenju na Zemlji.\n- Dež je ena od najbolj značenih pogodnih jevov in odvisi od različnih faktorov.\n2. Priklad:\n- Razgledajmo različne tipy deža, ki se mogu odraziti v našem okolju: lekki smečak, silni hrom, nebojno zrako, ledena kapla, ...\n- Vprajmo si, kako so te pogodne jevi nasproti enakim procesima v otroku.\n3. Uvodna vprašanje:\n- Kako se dež utiška in razvijata v različnih delih sveta?\n- Kako so različni tipi deža spremembni za življenje rastlin, zveznikov in ljudi?<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>\nV svojem delu si lahko pomagate s tem, da:\n- Razumete pogodne jevy in njihovo vpliv na otrok.\n- Uporabite znanje o različnih tipih deža za raziskavanje prirodi.\n- Vprašajte in analizirate vpliv pogode na naso okolja.<EOS_TOKEN>...<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "REASON",
+  "q": "Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "- ppt stáhnout\nPrezentace na téma: \"Ura dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.\"— Transkript prezentace:\nUra dela stane 20 evrov. Koliko stanejo 3 ure? Pojasni.\n1. Uredni radnik (uradnik) dela 8 ur u poslu, a to po 45 minutu. Koliko minut delo trva? 2. Uredni radnik delo ne moze prekinuti ni za jedan minut, osim ako je to uzasna situacija. Ako je taka situacija, koliko minut moze delo trvati?\n3. Uredni radnik ima pravo na 30 minutu pauzu u svakom 4-mestnom periodu posla. Koliko minut pauze ima u celom dne (8 ur)? 4. Ako je uredni radnik u nekom 4-mestnom periodu posla delo 20 evrov, koliko stanejo 3 ure?\n5. Uredni radnik delo ne moze prekinuti ni za jedan minut, osim ako je to uzasna situacija. Ako je taka situacija, koliko minut moze delo trvati? 6. Koliko minut pauze ima u celom",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "INSTRUCT",
+  "q": "Naštej TOČNO tri slovenska mesta, vsako v enem stavku.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "The map shows the exact location of 3 Slovenian cities in one single frame.\n- Ljubljana - Capital and largest city of Slovenia. It is situated on the banks of the Ljubljanica River at the foot of the Karst Hill.\n- Maribor - Located in the eastern part of Slovenia, it is the second largest city in the country. It lies along the Drava River, near the border with Austria.\n- Bled - A picturesque town located in northwestern Slovenia, known for its stunning Lake Bled and the iconic Bled Island with the church of Mary's Assumption.<EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN><EOS_TOKEN>\n- 100% recycled paper\n- Printed in Germany\n- Size: A3 (297 x 420 mm)\n- Frame size: 50 x 70 cm\n- Made in Slovenia\n- Free shipping within EU!<EOS_TOKEN><EOS_TOKEN>.<EOS_TOKEN><EOS_TOKEN>\n- 100% recycled paper\n- Printed in Germany\n- Size: A3 (297 x 420 mm)\n- Frame size: 50 x 70 cm\n- Made in Slovenia\n- Free shipping within EU!<EOS_TOKEN><EOS_TOKEN>\n- 100% recycled paper\n- Printed in Germany\n- Size: A3 (297 x 420 mm)\n- Frame size: 50 x 70 cm\n- Made in Slovenia\n- Free shipping within EU!<EOS_TOKEN>'<EOS_TOKEN>\"\n- 100% recycled paper\n- Printed in Germany\n- Size:",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sl",
+  "task": "LONGFORM",
+  "q": "Napiši 4 koherentne stavke o Ljubljani.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. **Historické pozadí**: Ljubljana, hlavní město Slovinska, má bohatou historii sahající až do římských dob. Město bylo založeno kolem roku 100 n. l. jako římská osada s názvem Emona. Během staletí prošlo mnoha změnami a bylo ovlivněno různými kulturami, včetně slovanských kmenů, Benátské republiky a Habsburské monarchie.\n\n2. **Kulturní dědictví**: Ljubljana je známá svým bohatým kulturním dědictvím. Město je domovem mnoha historických památek, jako je například Starý most (Stari most), který byl postaven ve 16. století, a Lublaňský hrad (Ljubljanski grad), který nabízí úchvatný výhled na město. Ljubljana také hostí řadu kulturních festivalů a akcí po celý rok, včetně známého Letního festivalu v Ljublani (Ljubljanski letni festival), který přitahuje umělce a návštěvníky z celého světa.\n\n3. **Přírodní krásy**: Město je obklopeno malebnou přírodou. V blízkosti se nachází mnoho parků a zelených ploch, jako je například Park Trg (Trgovini park) a Botanická zahrada (Botanični zahrad). Nejznámější přírodní atrakcí je však pravděpodobně jezero Bled, které je snadno dostupné z Ljublaně a je známé svou krásnou scenérií a legendou o bledé panny.\n\n4. **Moderní město a infrastruktura**: Ljubljana se v posledních desetiletích výrazně rozvinula a",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "FACT",
+  "q": "Kush e shkroi romanin 'Gjenerali i ushtrisë së vdekur'? Shkurt.",
+  "want_script": "lat",
+  "type": "name",
+  "answer": "The Kush and the Red Romans: The Generals of the Fallen Army? Short.\nIn this short article, I will try to shed some light on a topic that has been discussed for years in Albania, but without any real conclusion or consensus. It is about the so-called \"Kush\" (red) Romans who fought in World War II and their alleged role as generals of an army that was defeated and fell.\nThe term \"Kush\" (or \"Red\") refers to the color of the uniforms worn by the Albanian soldiers fighting alongside the Italian Army during the Second World War, which were red with white stripes. These soldiers were known for their bravery and dedication in battle, but also for their loyalty to Mussolini's regime. The question that arises is: Were these men real generals who led their armies into defeat, or are they just a myth created by propaganda?\nThe Italian Army in Albania during World War II\nIn 1939, Italy invaded Albania, and the country became a protectorate of the Fascist regime. As part of this occupation, many Albanian soldiers were recruited to fight alongside the Italian army against their former allies, Greece and Yugoslavia. These soldiers wore red uniforms with white stripes, which gave them the nickname \"Kush\" (Red Romans).\nThe Kush soldiers fought bravely in several battles, including the Battle of Greece in 1940-1941, where they played a significant role in the Italian victory. However, their military success was short-lived, as Italy's defeat by the Allied forces in North Africa and",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "HALLU",
+  "q": "Kush ishte poeti shqiptar Gjon Prendushi-Marku dhe kur jetoi?",
+  "want_script": "lat",
+  "type": "idk",
+  "answer": "| Shqipin\n05/12/2019 05/12/2019 - Autor: Shqipin.com\nPoeti i gjithëmarr në botën shqiptare, Gjon Prendushi-Marku (1874-1937) ka përqendur si “kush ishte” dhe kjo çdo ditë duhet të jetë në mënyrë që të përmendet një shtresë e rëndë për gjithçka ku ndej.\nPoeti i vlerë, këtë lloji për të përqendur në botën shqiptare ka qenë një mënyrë për të arritur në çdo moment të jetës dhe për të gjithë një mënyrë për të krenar në çdo gjithçka.\nKush ishte Gjon Prendushi-Marku?\nGjon Prendushi-Marku, i ftohëm në 1874 në Shkoder, është një poeti, përfshirë dhe përkrasori shqiptar të gjithëmarr. Në mundim të n",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "TEACH",
+  "q": "Shpjegoji një fëmije çfarë është shiu, në saktësisht 3 fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Në përshendje të parë, shpjezoj në përqenje të lartë të historisë dhe kulturës shqiptare. Për këtë mëtah, gjithashtu do të përdorim materialin që u përcaktoj në klasa, si dhe dokumentet dhe objektet historik (muharra, foto, kartë, etc.)\n2. Në fjalë të dritë, shpjezoj në përqenje të lartë të gjendjes së Shqipërisë në një të vërtetë period (p.sh. në mëkati i 19-të shekimit të pasdite të II-të Warre Mundial, ose në një të lartë periode e përjetshme).\n3. Në fjali të fundit, shpjezoj në përqenje të lartë të gjendjes së një fjalë të përqendur (p.sh. \"fjalë të kuqe\" ose \"fjalë e pasur\").\n1. Në përshendje të parë, shpjezoj n",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "REASON",
+  "q": "Një libër kushton 5 euro. Sa kushtojnë 4 libra? Shpjego.",
+  "want_script": "lat",
+  "type": "num",
+  "answer": "Shqiperia është një vend qendrore për librin, por kundër të gjithë mëkatarëve të bukës, ka një rregull që shoh në çdo libër: prezi i paçkueshëm. Në mëkatet e bukës të përjetshme, kjo është një fitorje që gjithçka bën më të barë.\nNë mëkatin e bukës të përjetshme, prezi i paçkueshëm ka një rol i vlerët, por në kjo përfundim, shqiptarët kanë gjithmonë një llogari të barë.\nNë mëkatet e bukës që shohin në librariat dhe në fshiri, prezi i paçkueshëm është një rregull. Në kjo përfundim, 5 euro do të jene prezi për një libër me një përqenje të gjithësi, por 4 libra do të jene prezi për një libër me një përqenje të përjetshme.",
+  "score": 0,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "INSTRUCT",
+  "q": "Rendit SAKTËSISHT tre qytete të Shqipërisë, secili në një fjali.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "1. Në kunderi për të gjithë:\nShqipëria është një vend qendrore për mëshirësi dhe emrin e paqartësisë në përjetësi, në kontekst të një pasdori historik të lartë. Në gjithçka kjo është një pasqelje të mëshirës së një popull i njëzëm dhe i përjetshme, ku qoftë një vendi i përkrasur për çdo njën.\n2. Në kunderi për një grup të gjithë:\nShqipëria është një vend e përjetshme për mëshirësi dhe emrin e paqartësisë, ku qoftë një pasdori historik i lartë. Në gjithçka kjo është një pasqelje të mëshirës së një popull i njëzëm dhe i përjetshme, ku qoftë një vendi i përkrasur për çdo njën.\n3. Në kund",
+  "score": 1,
+  "script_ok": true
+ },
+ {
+  "lang": "sq",
+  "task": "LONGFORM",
+  "q": "Shkruaj 4 fjali koherente për Tiranën.",
+  "want_script": "lat",
+  "type": "lang",
+  "answer": "Tiranë, capitali i Shqipërisë dhe një qytet e vjeter për arritimin e një pashtrësi të lartë në historinë e shkiptarëve, është një destinacion e fascinante për turistët. Në këtë fjalë, do të shkruajmë 4 fjali për të besuat në Tiranën dhe të gjithë rregullat e qytetit ku do të gjejmë një mjedil të lartë të kulturisë, historisë dhe një vjetor kufi i shkiptarëve.\n1. Muzeu Historik Kombëtar (Muzeu Historik Në Tiranë)\nMuzeu Historik Kombëtar e Shqipërisë është një destinacion e përjetshme për të gjithë besimtarët e historisë shqiptare. Në këtë muzeu, do të gjejmë një mjedil të lartë të pasqyrës së gjithë epizodave të historisë shqiptare, nga përballja e antikuarëm deri në për",
+  "score": 1,
+  "script_ok": true
+ }
+]
